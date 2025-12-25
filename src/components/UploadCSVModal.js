@@ -11,8 +11,11 @@ import {
     TouchableOpacity,
     View,
 } from "react-native";
+import { useData } from "../context/DataContext"; // Correctly imported at top level
+import { API_URL } from "../utils/apiConfig";
 
 export default function UploadCSVModal({ visible, onClose }) {
+    const { setAnalysisData } = useData(); // Correctly used hook
     const [file, setFile] = useState(null);
     const [uploading, setUploading] = useState(false);
     const [success, setSuccess] = useState(false);
@@ -47,21 +50,53 @@ export default function UploadCSVModal({ visible, onClose }) {
         }
     };
 
-    const handleUpload = () => {
+    const handleUpload = async () => {
         if (!file) return;
         setUploading(true);
+        const targetUrl = `${API_URL}/api/process-csv`;
+        console.log("Attempting upload to:", targetUrl);
 
-        // Simulate upload delay
-        setTimeout(() => {
+        try {
+            const formData = new FormData();
+            formData.append("file", {
+                uri: file.uri,
+                name: file.name,
+                type: file.mimeType || "text/csv",
+            });
+
+            console.log("FormData created with file:", file.name);
+
+            const response = await fetch(targetUrl, {
+                method: "POST",
+                body: formData,
+            });
+
+            const result = await response.json();
+
+            if (response.ok) {
+                console.log("Upload success:", result);
+                setAnalysisData(result); // Save to global context
+                setSuccess(true);
+                setFile(null);
+
+                // Close modal after brief success message
+                setTimeout(() => {
+                    setSuccess(false);
+                    onClose();
+                }, 1500);
+            } else {
+                console.error("Upload failed server-side:", result);
+                Alert.alert("Upload Failed", result.detail || "Something went wrong.");
+            }
+        } catch (error) {
+            console.error("Upload connection error full:", error);
+            Alert.alert(
+                "Connection Error",
+                `Could not reach ${targetUrl}. \n\nEnsure backend is running on 0.0.0.0`
+            );
+        } finally {
             setUploading(false);
-            setSuccess(true);
-            setFile(null);
-            // In a real app, you would process the file here
-            setTimeout(() => {
-                setSuccess(false);
-                onClose();
-            }, 1000);
-        }, 1500);
+        }
     };
 
     const handleCancel = () => {
@@ -125,7 +160,7 @@ export default function UploadCSVModal({ visible, onClose }) {
                     {uploading && (
                         <View style={styles.stateContainer}>
                             <ActivityIndicator size="large" color="#34D399" />
-                            <Text style={styles.stateText}>Processing data...</Text>
+                            <Text style={styles.stateText}>Uploading and Processing...</Text>
                         </View>
                     )}
 

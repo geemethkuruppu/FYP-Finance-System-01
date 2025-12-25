@@ -1,8 +1,12 @@
 import { Ionicons } from "@expo/vector-icons";
 import { LinearGradient } from "expo-linear-gradient";
 import { StatusBar } from "expo-status-bar";
+import React, { useMemo } from "react";
 import { ScrollView, StyleSheet, Text, TouchableOpacity, View } from "react-native";
 import { useTheme } from "../context/ThemeContext";
+
+import InsightClusterCard from "../components/insights/InsightClusterCard";
+import { useData } from "../context/DataContext";
 
 import InsightAnomalyCard from "../components/insights/InsightAnomalyCard";
 import InsightBaselineCard from "../components/insights/InsightBaselineCard";
@@ -61,8 +65,95 @@ const DATA = {
     },
 };
 
+
 export default function InsightsScreen() {
     const { colors } = useTheme();
+    const { analysisData } = useData();
+
+    // Construct dynamic confidence data or fall back to defaults
+    const confidenceData = analysisData ? {
+        totalTransactions: analysisData.rows,
+        months: 6,
+        confidenceLevel: "HIGH",
+    } : DATA.confidence;
+
+    // Dynamic Behavioral Patterns
+    const patterns = useMemo(() => {
+        if (!analysisData || !analysisData.behavior_analysis) return DATA.patterns;
+
+        const {
+            overspending,
+            micro_spender,
+            subscription_creep,
+            present_bias,
+            micro_transactions_last_30_days,
+            total_expense,
+            total_income
+        } = analysisData.behavior_analysis;
+
+        const dynamicPatterns = [];
+        let idCounter = 1;
+
+        if (overspending) {
+            dynamicPatterns.push({
+                id: idCounter++,
+                name: "Overspending Risk",
+                severity: "High",
+                timeWindow: "Current Analysis",
+                evidence: [
+                    `Total expenses ($${total_expense}) exceed income ($${total_income})`,
+                    "Spending velocity is unsustainable"
+                ]
+            });
+        }
+
+        if (subscription_creep) {
+            dynamicPatterns.push({
+                id: idCounter++,
+                name: "Subscription Creep",
+                severity: "Medium",
+                timeWindow: "Observed in monthly data",
+                evidence: [
+                    "Multiple recurring monthly subscriptions detected",
+                    "Potential unused services draining budget"
+                ]
+            });
+        }
+
+        if (micro_spender) {
+            dynamicPatterns.push({
+                id: idCounter++,
+                name: "Micro-Transactions",
+                severity: "Low",
+                timeWindow: "Last 30 Days",
+                evidence: [
+                    `Frequent small purchases detected`,
+                    `${micro_transactions_last_30_days} detected in the last month`
+                ]
+            });
+        }
+
+        if (present_bias) {
+            dynamicPatterns.push({
+                id: idCounter++,
+                name: "Present Bias",
+                severity: "Medium",
+                timeWindow: "Payday Cycle",
+                evidence: [
+                    "High spending immediately after payday",
+                    "Risk of running out of funds before month end"
+                ]
+            });
+        }
+
+        return dynamicPatterns.length > 0 ? dynamicPatterns : [{
+            id: 999,
+            name: "Good Standing",
+            severity: "Safe",
+            timeWindow: "Current Analysis",
+            evidence: ["No negative behavioral patterns detected."]
+        }];
+    }, [analysisData]);
 
     return (
         <View style={[styles.container, { backgroundColor: colors.background }]}>
@@ -95,32 +186,52 @@ export default function InsightsScreen() {
             >
 
                 {/* 2. Confidence & Data */}
-                <InsightConfidenceCard {...DATA.confidence} />
+                <InsightConfidenceCard {...confidenceData} />
 
-                {/* 3. Normal Behavior Baseline */}
-                <InsightBaselineCard data={DATA.baseline} />
+                {/* 3. Normal Behavior Baseline (Hide if real data present) */}
+                {!analysisData && (
+                    <>
+                        <InsightBaselineCard data={DATA.baseline} />
+
+                        {/* 5. Anomaly Detection */}
+                        <Text style={styles.sectionHeader}>ANOMALY DETECTION</Text>
+                        <InsightAnomalyCard transaction={DATA.anomaly} />
+
+                        {/* 6. Category Dominance */}
+                        <Text style={styles.sectionHeader}>CATEGORY DOMINANCE</Text>
+                        <InsightDominanceCard data={DATA.dominance} />
+                    </>
+                )}
 
                 {/* 4. Detected Patterns */}
                 <Text style={styles.sectionHeader}>DETECTED BEHAVIORAL PATTERNS</Text>
-                {DATA.patterns.map(p => (
+                {patterns.map(p => (
                     <InsightPatternCard key={p.id} pattern={p} />
                 ))}
 
-                {/* 5. Anomaly Detection */}
-                <Text style={styles.sectionHeader}>ANOMALY DETECTION</Text>
-                <InsightAnomalyCard transaction={DATA.anomaly} />
+                {/* 7. Clustering Analysis (Dynamic) */}
 
-                {/* 6. Category Dominance */}
-                <Text style={styles.sectionHeader}>CATEGORY DOMINANCE</Text>
-                <InsightDominanceCard data={DATA.dominance} />
+                {/* 7. Clustering Analysis (Dynamic) */}
+                {analysisData && analysisData.cluster_distribution && (
+                    <>
+                        <Text style={styles.sectionHeader}>SPENDING CLUSTERS</Text>
+                        <InsightClusterCard
+                            distribution={analysisData.cluster_distribution}
+                            totalClusters={analysisData.clusters_found}
+                        />
+                        <View style={{ height: 24 }} />
+                    </>
+                )}
 
-                {/* 7. Transparency */}
+                {/* 8. Transparency */}
                 <InsightTransparencyCard />
 
             </ScrollView>
         </View>
     );
 }
+
+
 
 const styles = StyleSheet.create({
     container: {
