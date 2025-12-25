@@ -1,0 +1,1001 @@
+Transaction_ID,Date,Time,Amount,Description,Merchant,Category
+TX0001,4/3/2024,20:57:00,8.53,Lunch meal,McDonalds,Food & Beverage
+TX0002,8/11/2024,15:39:00,228.41,Electricity bill,Local Utility,Bills
+TX0003,10/25/2024,18:49:00,109.65,Grocery store purchase,Target,Groceries
+TX0004,4/4/2024,15:06:00,23.62,Taxi service,Uber,Transportation
+TX0005,3/26/2025,22:38:00,24.74,Taxi service,Local Transit,Transportation
+TX0006,3/28/2025,12:13:00,186.46,Pharmacy purchase,Local Clinic,Healthcare
+TX0007,1/12/2025,12:57:00,41.06,Bulk food items,Walmart,Groceries
+TX0008,12/30/2024,22:56:00,86.81,Supermarket shopping,Costco,Groceries
+TX0009,8/21/2024,12:04:00,22.81,Dinner at restaurant,McDonalds,Food & Beverage
+TX0010,1/5/2025,8:07:00,53.44,Movie tickets,Spotify,Entertainment
+TX0011,2/6/2025,18:18:00,27.97,Lunch meal,Dunkin,Food & Beverage
+TX0012,3/8/2025,12:28:00,10.84,Dinner at restaurant,McDonalds,Food & Beverage
+TX0013,5/7/2024,8:16:00,34.11,Bus ticket,Uber,Transportation
+TX0014,3/6/2025,15:17:00,74.54,Concert tickets,Netflix,Entertainment
+TX0015,3/7/2025,8:13:00,16.53,Taxi service,Lyft,Transportation
+TX0016,12/21/2024,20:33:00,126.4,Supermarket shopping,Target,Groceries
+TX0017,11/3/2024,12:56:00,35.24,Taxi service,Lyft,Transportation
+TX0018,11/15/2024,20:45:00,279.27,Health supplement,CVS Pharmacy,Healthcare
+TX0019,7/3/2024,20:36:00,5.81,Dinner at restaurant,Subway,Food & Beverage
+TX0020,3/3/2025,12:56:00,17.48,Lunch meal,McDonalds,Food & Beverage
+TX0021,7/11/2024,18:30:00,26.46,Coffee purchase,Subway,Food & Beverage
+TX0022,3/18/2025,18:26:00,996.67,Internet bill,Local Utility,Bills
+TX0023,3/3/2025,22:18:00,11.59,Coffee purchase,Starbucks,Food & Beverage
+TX0024,7/17/2024,15:34:00,110.78,Pharmacy purchase,Walgreens,Healthcare
+TX0025,1/13/2025,12:55:00,41.37,Movie tickets,AMC Theatres,Entertainment
+TX0026,4/13/2024,12:02:00,159.05,Monthly bill payment,Local Utility,Bills
+TX0027,10/1/2024,18:25:00,99.62,Streaming subscription,AMC Theatres,Entertainment
+TX0028,8/16/2024,12:40:00,80.14,Concert tickets,AMC Theatres,Entertainment
+TX0029,12/31/2024,18:41:00,84.62,Movie tickets,Netflix,Entertainment
+TX0030,6/4/2024,20:29:00,159.11,Internet bill,Local Utility,Bills
+TX0031,5/5/2024,12:20:00,780.38,Monthly bill payment,Local Utility,Bills
+TX0032,12/4/2024,18:55:00,178.43,Pharmacy purchase,Local Clinic,Healthcare
+TX0033,1/27/2025,12:02:00,134.29,Supermarket shopping,Costco,Groceries
+TX0034,3/9/2025,18:47:00,429.9,Pharmacy purchase,Local Clinic,Healthcare
+TX0035,2/22/2025,20:07:00,20.3,Taxi service,Lyft,Transportation
+TX0036,8/17/2024,18:03:00,30.45,Bus ticket,Uber,Transportation
+TX0037,8/9/2024,20:15:00,124.99,Internet bill,Mobile Carrier,Bills
+TX0038,10/20/2024,20:41:00,51.91,Movie tickets,AMC Theatres,Entertainment
+TX0039,1/17/2025,18:37:00,24.82,Dinner at restaurant,McDonalds,Food & Beverage
+TX0040,9/5/2024,18:51:00,360.81,Pharmacy purchase,Walgreens,Healthcare
+TX0041,8/19/2024,18:14:00,122.79,Electricity bill,Mobile Carrier,Bills
+TX0042,7/23/2024,22:29:00,29.05,Taxi service,Local Transit,Transportation
+TX0043,11/19/2024,18:36:00,117.31,Bulk food items,Costco,Groceries
+TX0044,6/14/2024,15:21:00,22.37,Lunch meal,Dunkin,Food & Beverage
+TX0045,7/22/2024,12:12:00,27.21,Bus ticket,Uber,Transportation
+TX0046,7/12/2024,18:20:00,205.5,Health supplement,Local Clinic,Healthcare
+TX0047,9/17/2024,20:59:00,170.44,Monthly bill payment,Internet Provider,Bills
+TX0048,4/17/2024,20:26:00,302.71,Health supplement,CVS Pharmacy,Healthcare
+TX0049,5/16/2024,18:22:00,22.35,Lunch meal,Starbucks,Food & Beverage
+TX0050,5/24/2024,20:33:00,52.5,Concert tickets,AMC Theatres,Entertainment
+TX0051,9/18/2024,12:57:00,285.7,Internet bill,Mobile Carrier,Bills
+TX0052,9/30/2024,18:40:00,90.82,Electricity bill,Mobile Carrier,Bills
+TX0053,5/5/2024,22:55:00,223.69,Bulk food items,Target,Groceries
+TX0054,10/28/2024,18:14:00,257.1,Internet bill,Mobile Carrier,Bills
+TX0055,6/29/2024,12:48:00,490.39,Pharmacy purchase,Walgreens,Healthcare
+TX0056,11/5/2024,8:57:00,40.42,Movie tickets,Netflix,Entertainment
+TX0057,6/15/2024,20:41:00,15.91,Dinner at restaurant,Dunkin,Food & Beverage
+TX0058,8/31/2024,12:15:00,13.98,Taxi service,Uber,Transportation
+TX0059,4/19/2024,12:30:00,55.83,Monthly bill payment,Mobile Carrier,Bills
+TX0060,1/23/2025,15:14:00,343.61,Pharmacy purchase,Local Clinic,Healthcare
+TX0061,12/20/2024,12:24:00,17.52,Dinner at restaurant,Dunkin,Food & Beverage
+TX0062,1/16/2025,18:50:00,50.76,Bulk food items,Target,Groceries
+TX0063,3/19/2025,20:40:00,180.34,Supermarket shopping,Target,Groceries
+TX0064,1/27/2025,20:34:00,10.2,Coffee purchase,Starbucks,Food & Beverage
+TX0065,12/27/2024,22:54:00,366.22,Health supplement,Walgreens,Healthcare
+TX0066,4/6/2024,22:04:00,19.73,Concert tickets,AMC Theatres,Entertainment
+TX0067,10/21/2024,20:59:00,7.56,Lunch meal,McDonalds,Food & Beverage
+TX0068,8/12/2024,18:51:00,235.38,Monthly bill payment,Local Utility,Bills
+TX0069,6/15/2024,22:50:00,98.47,Internet bill,Internet Provider,Bills
+TX0070,7/1/2024,12:57:00,25.57,Coffee purchase,McDonalds,Food & Beverage
+TX0071,3/20/2025,15:01:00,70.63,Movie tickets,Spotify,Entertainment
+TX0072,2/14/2025,20:33:00,98.87,Doctor appointment fee,Walgreens,Healthcare
+TX0073,7/3/2024,12:22:00,19.45,Ride fare,Local Transit,Transportation
+TX0074,3/8/2025,20:57:00,40.62,Streaming subscription,AMC Theatres,Entertainment
+TX0075,2/5/2025,20:11:00,78.46,Health supplement,Local Clinic,Healthcare
+TX0076,9/29/2024,20:50:00,85.95,Streaming subscription,AMC Theatres,Entertainment
+TX0077,1/24/2025,12:40:00,155.22,Grocery store purchase,Costco,Groceries
+TX0078,6/21/2024,18:07:00,38.74,Bus ticket,Local Transit,Transportation
+TX0079,9/21/2024,22:14:00,44.88,Bus ticket,Lyft,Transportation
+TX0080,9/18/2024,18:19:00,29.48,Coffee purchase,Subway,Food & Beverage
+TX0081,7/5/2024,20:33:00,134.21,Electricity bill,Mobile Carrier,Bills
+TX0082,1/31/2025,8:02:00,1367.85,Doctor appointment fee,Walgreens,Healthcare
+TX0083,5/17/2024,20:39:00,21.75,Lunch meal,Subway,Food & Beverage
+TX0084,10/19/2024,22:50:00,28.63,Dinner at restaurant,Subway,Food & Beverage
+TX0085,7/3/2024,12:49:00,377.21,Health supplement,Walgreens,Healthcare
+TX0086,2/8/2025,15:02:00,24.6,Coffee purchase,Dunkin,Food & Beverage
+TX0087,11/17/2024,15:58:00,48.66,Ride fare,Lyft,Transportation
+TX0088,2/3/2025,20:18:00,24.12,Coffee purchase,Starbucks,Food & Beverage
+TX0089,3/24/2025,18:13:00,150.35,Internet bill,Local Utility,Bills
+TX0090,1/2/2025,15:42:00,94.05,Pharmacy purchase,CVS Pharmacy,Healthcare
+TX0091,2/12/2025,18:17:00,20.31,Taxi service,Uber,Transportation
+TX0092,8/19/2024,18:39:00,31.93,Streaming subscription,AMC Theatres,Entertainment
+TX0093,6/25/2024,18:04:00,82.14,Doctor appointment fee,Walgreens,Healthcare
+TX0094,11/5/2024,8:28:00,11.41,Ride fare,Lyft,Transportation
+TX0095,2/5/2025,18:47:00,8.23,Lunch meal,Dunkin,Food & Beverage
+TX0096,5/15/2024,18:43:00,104.49,Electricity bill,Local Utility,Bills
+TX0097,1/10/2025,15:52:00,12.08,Ride fare,Uber,Transportation
+TX0098,10/15/2024,8:36:00,329.07,Doctor appointment fee,Walgreens,Healthcare
+TX0099,3/30/2025,20:39:00,55.29,Streaming subscription,Spotify,Entertainment
+TX0100,3/29/2024,20:07:00,116.43,Bulk food items,Costco,Groceries
+TX0101,12/6/2024,18:03:00,119.45,Doctor appointment fee,CVS Pharmacy,Healthcare
+TX0102,9/19/2024,12:23:00,37.38,Concert tickets,Spotify,Entertainment
+TX0103,2/7/2025,18:07:00,30.61,Bulk food items,Costco,Groceries
+TX0104,12/7/2024,22:42:00,24.91,Dinner at restaurant,Subway,Food & Beverage
+TX0105,12/1/2024,18:11:00,222.6,Monthly bill payment,Mobile Carrier,Bills
+TX0106,1/21/2025,15:35:00,43.55,Bulk food items,Walmart,Groceries
+TX0107,10/10/2024,18:09:00,467.83,Health supplement,Local Clinic,Healthcare
+TX0108,4/12/2024,12:58:00,28.23,Streaming subscription,Spotify,Entertainment
+TX0109,7/13/2024,12:16:00,16.35,Ride fare,Uber,Transportation
+TX0110,7/17/2024,18:17:00,31.16,Bus ticket,Lyft,Transportation
+TX0111,12/3/2024,18:07:00,104.61,Lunch meal,Starbucks,Food & Beverage
+TX0112,6/24/2024,20:28:00,158.1,Bulk food items,Target,Groceries
+TX0113,3/18/2025,15:57:00,56.98,Movie tickets,Netflix,Entertainment
+TX0114,9/16/2024,20:53:00,161.25,Bulk food items,Costco,Groceries
+TX0115,4/4/2024,20:14:00,273.5,Health supplement,Local Clinic,Healthcare
+TX0116,2/10/2025,20:14:00,14.85,Lunch meal,Dunkin,Food & Beverage
+TX0117,6/27/2024,22:48:00,81.18,Concert tickets,AMC Theatres,Entertainment
+TX0118,4/12/2024,18:19:00,22.61,Ride fare,Local Transit,Transportation
+TX0119,7/31/2024,20:44:00,15.32,Lunch meal,McDonalds,Food & Beverage
+TX0120,11/4/2024,15:02:00,186.28,Supermarket shopping,Walmart,Groceries
+TX0121,5/11/2024,20:30:00,40.05,Ride fare,Local Transit,Transportation
+TX0122,7/26/2024,12:06:00,24.29,Bus ticket,Lyft,Transportation
+TX0123,3/22/2025,20:51:00,135.64,Internet bill,Mobile Carrier,Bills
+TX0124,9/13/2024,22:54:00,114.09,Grocery store purchase,Walmart,Groceries
+TX0125,4/27/2024,20:52:00,29.56,Lunch meal,Subway,Food & Beverage
+TX0126,11/24/2024,15:47:00,61.23,Pharmacy purchase,Walgreens,Healthcare
+TX0127,4/1/2024,20:19:00,14.39,Bus ticket,Uber,Transportation
+TX0128,7/25/2024,18:44:00,251.81,Internet bill,Internet Provider,Bills
+TX0129,3/11/2025,15:33:00,237.3,Internet bill,Mobile Carrier,Bills
+TX0130,6/9/2024,18:43:00,373.24,Internet bill,Internet Provider,Bills
+TX0131,12/28/2024,20:54:00,163.91,Electricity bill,Local Utility,Bills
+TX0132,5/15/2024,15:39:00,49.34,Movie tickets,Netflix,Entertainment
+TX0133,2/3/2025,18:47:00,272.25,Electricity bill,Local Utility,Bills
+TX0134,3/6/2025,20:15:00,199.9,Health supplement,CVS Pharmacy,Healthcare
+TX0135,10/31/2024,20:07:00,21.34,Ride fare,Lyft,Transportation
+TX0136,2/4/2025,12:31:00,124.94,Supermarket shopping,Target,Groceries
+TX0137,4/3/2024,20:17:00,82.74,Supermarket shopping,Target,Groceries
+TX0138,9/17/2024,12:53:00,78.09,Monthly bill payment,Local Utility,Bills
+TX0139,7/9/2024,12:04:00,184.59,Bulk food items,Costco,Groceries
+TX0140,7/8/2024,15:03:00,90.57,Supermarket shopping,Target,Groceries
+TX0141,3/21/2025,20:46:00,19.63,Coffee purchase,Starbucks,Food & Beverage
+TX0142,9/26/2024,18:59:00,479.64,Doctor appointment fee,Walgreens,Healthcare
+TX0143,1/29/2025,22:33:00,49.44,Bus ticket,Local Transit,Transportation
+TX0144,6/12/2024,15:41:00,46.23,Grocery store purchase,Target,Groceries
+TX0145,4/8/2024,20:40:00,178.92,Supermarket shopping,Costco,Groceries
+TX0146,4/3/2024,20:01:00,7.13,Dinner at restaurant,Starbucks,Food & Beverage
+TX0147,12/30/2024,22:26:00,170.85,Bulk food items,Costco,Groceries
+TX0148,12/25/2024,20:18:00,7.83,Coffee purchase,McDonalds,Food & Beverage
+TX0149,5/23/2024,15:55:00,11.95,Dinner at restaurant,Subway,Food & Beverage
+TX0150,9/9/2024,18:44:00,23.73,Streaming subscription,Spotify,Entertainment
+TX0151,7/1/2024,22:24:00,157.74,Electricity bill,Mobile Carrier,Bills
+TX0152,4/23/2024,22:56:00,155.03,Supermarket shopping,Costco,Groceries
+TX0153,10/28/2024,12:42:00,78.55,Streaming subscription,Netflix,Entertainment
+TX0154,5/9/2024,15:47:00,445.05,Doctor appointment fee,Local Clinic,Healthcare
+TX0155,9/29/2024,22:37:00,105.1,Streaming subscription,AMC Theatres,Entertainment
+TX0156,3/31/2024,15:01:00,49.6,Ride fare,Uber,Transportation
+TX0157,7/5/2024,22:25:00,42.64,Ride fare,Local Transit,Transportation
+TX0158,8/26/2024,12:46:00,11.45,Movie tickets,Spotify,Entertainment
+TX0159,11/27/2024,18:42:00,34.92,Taxi service,Local Transit,Transportation
+TX0160,10/29/2024,12:30:00,75.76,Streaming subscription,AMC Theatres,Entertainment
+TX0161,2/27/2025,8:02:00,78.81,Movie tickets,Spotify,Entertainment
+TX0162,12/1/2024,22:01:00,65.58,Concert tickets,Netflix,Entertainment
+TX0163,12/2/2024,18:58:00,478.51,Health supplement,Local Clinic,Healthcare
+TX0164,9/4/2024,20:18:00,42.59,Bus ticket,Lyft,Transportation
+TX0165,1/24/2025,18:35:00,103.53,Bulk food items,Target,Groceries
+TX0166,6/20/2024,20:44:00,24.85,Ride fare,Lyft,Transportation
+TX0167,12/28/2024,8:23:00,130.94,Internet bill,Mobile Carrier,Bills
+TX0168,1/6/2025,12:53:00,29.91,Dinner at restaurant,Dunkin,Food & Beverage
+TX0169,3/10/2025,18:30:00,380.67,Health supplement,CVS Pharmacy,Healthcare
+TX0170,1/13/2025,18:57:00,8.73,Taxi service,Uber,Transportation
+TX0171,1/22/2025,8:33:00,370.46,Doctor appointment fee,CVS Pharmacy,Healthcare
+TX0172,9/25/2024,20:58:00,187.85,Grocery store purchase,Walmart,Groceries
+TX0173,1/8/2025,15:06:00,20.74,Ride fare,Local Transit,Transportation
+TX0174,8/23/2024,18:25:00,463.7,Doctor appointment fee,CVS Pharmacy,Healthcare
+TX0175,7/28/2024,12:13:00,57.43,Bulk food items,Costco,Groceries
+TX0176,2/26/2025,15:29:00,243.49,Health supplement,CVS Pharmacy,Healthcare
+TX0177,2/25/2025,22:51:00,17.27,Ride fare,Lyft,Transportation
+TX0178,2/11/2025,20:29:00,50.99,Monthly bill payment,Mobile Carrier,Bills
+TX0179,1/15/2025,18:43:00,39.77,Bus ticket,Lyft,Transportation
+TX0180,4/10/2024,20:26:00,163.61,Grocery store purchase,Costco,Groceries
+TX0181,9/24/2024,20:52:00,28.24,Taxi service,Uber,Transportation
+TX0182,7/25/2024,18:49:00,138.54,Internet bill,Internet Provider,Bills
+TX0183,7/3/2024,18:09:00,16.41,Taxi service,Lyft,Transportation
+TX0184,5/18/2024,12:23:00,63.98,Bus ticket,Lyft,Transportation
+TX0185,9/1/2024,12:26:00,84.3,Movie tickets,Netflix,Entertainment
+TX0186,11/22/2024,12:11:00,149.4,Supermarket shopping,Walmart,Groceries
+TX0187,1/24/2025,12:02:00,12.54,Taxi service,Uber,Transportation
+TX0188,11/4/2024,20:07:00,10.42,Lunch meal,McDonalds,Food & Beverage
+TX0189,7/18/2024,20:58:00,604.5,Monthly bill payment,Internet Provider,Bills
+TX0190,6/28/2024,15:06:00,204.58,Health supplement,Walgreens,Healthcare
+TX0191,3/15/2025,18:40:00,314.7,Health supplement,CVS Pharmacy,Healthcare
+TX0192,7/21/2024,18:44:00,318.54,Monthly bill payment,Local Utility,Bills
+TX0193,1/14/2025,20:43:00,18.1,Coffee purchase,Dunkin,Food & Beverage
+TX0194,1/29/2025,20:14:00,49.59,Bus ticket,Uber,Transportation
+TX0195,7/13/2024,18:09:00,51.96,Bus ticket,Uber,Transportation
+TX0196,2/27/2025,15:29:00,53.42,Internet bill,Local Utility,Bills
+TX0197,6/25/2024,22:14:00,11.05,Dinner at restaurant,Dunkin,Food & Beverage
+TX0198,3/29/2025,20:14:00,27.26,Ride fare,Lyft,Transportation
+TX0199,3/7/2025,20:13:00,73.24,Monthly bill payment,Local Utility,Bills
+TX0200,9/24/2024,20:55:00,177.86,Internet bill,Mobile Carrier,Bills
+TX0201,11/24/2024,12:10:00,32.06,Bus ticket,Lyft,Transportation
+TX0202,12/11/2024,20:59:00,429.5,Health supplement,Local Clinic,Healthcare
+TX0203,6/6/2024,20:43:00,75.72,Health supplement,CVS Pharmacy,Healthcare
+TX0204,10/28/2024,8:03:00,135.28,Internet bill,Mobile Carrier,Bills
+TX0205,4/20/2024,20:25:00,13.37,Bus ticket,Uber,Transportation
+TX0206,5/29/2024,20:06:00,123.97,Bulk food items,Walmart,Groceries
+TX0207,2/26/2025,20:37:00,10.69,Dinner at restaurant,Subway,Food & Beverage
+TX0208,5/1/2024,18:52:00,152.92,Pharmacy purchase,Local Clinic,Healthcare
+TX0209,11/22/2024,8:22:00,71.72,Internet bill,Mobile Carrier,Bills
+TX0210,10/9/2024,15:32:00,54.2,Internet bill,Local Utility,Bills
+TX0211,4/6/2024,8:38:00,127.93,Internet bill,Internet Provider,Bills
+TX0212,12/31/2024,15:10:00,6.46,Dinner at restaurant,Dunkin,Food & Beverage
+TX0213,5/6/2024,20:28:00,13.8,Dinner at restaurant,Subway,Food & Beverage
+TX0214,6/20/2024,18:35:00,34.69,Bus ticket,Uber,Transportation
+TX0215,10/20/2024,12:14:00,41.55,Taxi service,Uber,Transportation
+TX0216,4/29/2024,12:02:00,51.58,Monthly bill payment,Internet Provider,Bills
+TX0217,8/3/2024,18:26:00,148.62,Supermarket shopping,Target,Groceries
+TX0218,1/1/2025,15:02:00,411.43,Health supplement,Walgreens,Healthcare
+TX0219,10/19/2024,22:31:00,12.72,Lunch meal,Dunkin,Food & Beverage
+TX0220,1/17/2025,12:44:00,66.49,Concert tickets,AMC Theatres,Entertainment
+TX0221,8/7/2024,20:58:00,67.7,Movie tickets,Netflix,Entertainment
+TX0222,6/10/2024,20:02:00,432.35,Health supplement,Local Clinic,Healthcare
+TX0223,2/20/2025,18:22:00,296.46,Electricity bill,Local Utility,Bills
+TX0224,2/1/2025,18:15:00,188.96,Supermarket shopping,Target,Groceries
+TX0225,4/8/2024,15:48:00,189.09,Bulk food items,Target,Groceries
+TX0226,4/2/2024,12:15:00,399.74,Health supplement,Walgreens,Healthcare
+TX0227,4/13/2024,15:26:00,197.13,Internet bill,Internet Provider,Bills
+TX0228,7/26/2024,20:08:00,6.31,Lunch meal,Starbucks,Food & Beverage
+TX0229,11/19/2024,12:58:00,57.58,Doctor appointment fee,CVS Pharmacy,Healthcare
+TX0230,3/26/2025,12:53:00,99.24,Monthly bill payment,Mobile Carrier,Bills
+TX0231,2/15/2025,12:03:00,32.25,Coffee purchase,Subway,Food & Beverage
+TX0232,8/9/2024,22:18:00,16.82,Coffee purchase,McDonalds,Food & Beverage
+TX0233,3/14/2025,18:29:00,379.85,Doctor appointment fee,Local Clinic,Healthcare
+TX0234,4/30/2024,18:24:00,149.69,Internet bill,Mobile Carrier,Bills
+TX0235,5/30/2024,20:48:00,34.02,Taxi service,Local Transit,Transportation
+TX0236,12/10/2024,18:08:00,55.96,Streaming subscription,Spotify,Entertainment
+TX0237,11/5/2024,20:23:00,192.03,Monthly bill payment,Local Utility,Bills
+TX0238,2/8/2025,15:55:00,50.48,Streaming subscription,AMC Theatres,Entertainment
+TX0239,7/26/2024,12:29:00,28.22,Lunch meal,Dunkin,Food & Beverage
+TX0240,5/30/2024,20:14:00,136.1,Health supplement,Local Clinic,Healthcare
+TX0241,8/15/2024,12:28:00,445.5,Doctor appointment fee,Walgreens,Healthcare
+TX0242,5/18/2024,15:07:00,170.85,Monthly bill payment,Mobile Carrier,Bills
+TX0243,2/7/2025,15:11:00,42.07,Streaming subscription,Spotify,Entertainment
+TX0244,3/27/2025,8:31:00,81.14,Bulk food items,Walmart,Groceries
+TX0245,3/20/2025,18:11:00,29.63,Taxi service,Uber,Transportation
+TX0246,6/7/2024,20:57:00,112.78,Health supplement,Walgreens,Healthcare
+TX0247,2/13/2025,12:02:00,294.81,Doctor appointment fee,Local Clinic,Healthcare
+TX0248,5/7/2024,22:46:00,13.66,Lunch meal,Starbucks,Food & Beverage
+TX0249,5/9/2024,20:30:00,157.67,Bulk food items,Target,Groceries
+TX0250,10/15/2024,8:27:00,1121.79,Electricity bill,Internet Provider,Bills
+TX0251,10/29/2024,20:40:00,8.55,Coffee purchase,McDonalds,Food & Beverage
+TX0252,1/26/2025,22:20:00,26.72,Bulk food items,Walmart,Groceries
+TX0253,6/12/2024,12:26:00,41.38,Supermarket shopping,Target,Groceries
+TX0254,2/22/2025,20:30:00,96.61,Grocery store purchase,Target,Groceries
+TX0255,11/30/2024,20:43:00,113.14,Supermarket shopping,Costco,Groceries
+TX0256,3/21/2025,18:39:00,133.97,Supermarket shopping,Walmart,Groceries
+TX0257,9/17/2024,8:43:00,146.34,Bulk food items,Costco,Groceries
+TX0258,6/27/2024,18:57:00,50.47,Dinner at restaurant,Starbucks,Food & Beverage
+TX0259,2/16/2025,22:11:00,138.38,Electricity bill,Internet Provider,Bills
+TX0260,3/20/2025,8:52:00,38.02,Movie tickets,Spotify,Entertainment
+TX0261,11/23/2024,8:07:00,25.53,Dinner at restaurant,Starbucks,Food & Beverage
+TX0262,1/12/2025,20:39:00,65.85,Taxi service,Uber,Transportation
+TX0263,9/7/2024,20:12:00,140.52,Streaming subscription,Netflix,Entertainment
+TX0264,2/27/2025,8:25:00,47,Supermarket shopping,Costco,Groceries
+TX0265,5/22/2024,20:57:00,43.17,Concert tickets,Netflix,Entertainment
+TX0266,10/22/2024,8:38:00,267.79,Internet bill,Local Utility,Bills
+TX0267,4/16/2024,20:59:00,21.05,Dinner at restaurant,McDonalds,Food & Beverage
+TX0268,11/3/2024,20:29:00,45.04,Streaming subscription,AMC Theatres,Entertainment
+TX0269,8/7/2024,12:32:00,179.98,Electricity bill,Internet Provider,Bills
+TX0270,8/26/2024,8:48:00,191.74,Supermarket shopping,Walmart,Groceries
+TX0271,9/11/2024,22:40:00,159.58,Pharmacy purchase,Walgreens,Healthcare
+TX0272,1/22/2025,20:04:00,94.94,Grocery store purchase,Walmart,Groceries
+TX0273,9/19/2024,18:06:00,94.58,Movie tickets,AMC Theatres,Entertainment
+TX0274,3/10/2025,20:02:00,275.9,Internet bill,Internet Provider,Bills
+TX0275,12/19/2024,18:36:00,113.72,Internet bill,Mobile Carrier,Bills
+TX0276,5/18/2024,20:33:00,30.71,Lunch meal,Starbucks,Food & Beverage
+TX0277,2/9/2025,15:39:00,49.05,Taxi service,Lyft,Transportation
+TX0278,12/12/2024,20:16:00,233.93,Doctor appointment fee,CVS Pharmacy,Healthcare
+TX0279,2/23/2025,20:50:00,24.69,Movie tickets,Netflix,Entertainment
+TX0280,1/8/2025,15:27:00,45.9,Bulk food items,Walmart,Groceries
+TX0281,4/12/2024,18:13:00,95.84,Streaming subscription,Spotify,Entertainment
+TX0282,12/2/2024,18:04:00,140.97,Supermarket shopping,Walmart,Groceries
+TX0283,5/24/2024,12:44:00,10.34,Coffee purchase,Dunkin,Food & Beverage
+TX0284,7/12/2024,20:37:00,8.01,Coffee purchase,Subway,Food & Beverage
+TX0285,4/19/2024,18:21:00,243.84,Electricity bill,Local Utility,Bills
+TX0286,9/27/2024,18:26:00,8.56,Lunch meal,Dunkin,Food & Beverage
+TX0287,11/19/2024,20:26:00,160.24,Supermarket shopping,Walmart,Groceries
+TX0288,3/24/2025,18:55:00,88.7,Grocery store purchase,Target,Groceries
+TX0289,4/2/2024,20:45:00,28.58,Lunch meal,McDonalds,Food & Beverage
+TX0290,9/20/2024,18:45:00,49.93,Taxi service,Lyft,Transportation
+TX0291,4/3/2024,20:26:00,442.52,Doctor appointment fee,CVS Pharmacy,Healthcare
+TX0292,7/14/2024,18:05:00,123.63,Electricity bill,Local Utility,Bills
+TX0293,4/6/2024,8:32:00,68.08,Taxi service,Lyft,Transportation
+TX0294,7/16/2024,20:36:00,24.72,Taxi service,Local Transit,Transportation
+TX0295,11/28/2024,18:54:00,87.74,Bulk food items,Walmart,Groceries
+TX0296,10/5/2024,15:07:00,69.76,Taxi service,Lyft,Transportation
+TX0297,6/1/2024,18:58:00,136.07,Grocery store purchase,Target,Groceries
+TX0298,6/29/2024,18:33:00,82.98,Supermarket shopping,Walmart,Groceries
+TX0299,5/13/2024,22:34:00,192.94,Health supplement,CVS Pharmacy,Healthcare
+TX0300,5/4/2024,22:24:00,405.75,Monthly bill payment,Mobile Carrier,Bills
+TX0301,2/11/2025,12:37:00,120.18,Supermarket shopping,Target,Groceries
+TX0302,1/14/2025,18:25:00,98.88,Movie tickets,Netflix,Entertainment
+TX0303,7/11/2024,8:43:00,179.26,Supermarket shopping,Target,Groceries
+TX0304,1/11/2025,15:48:00,400.86,Health supplement,CVS Pharmacy,Healthcare
+TX0305,10/16/2024,20:18:00,45.57,Taxi service,Local Transit,Transportation
+TX0306,1/18/2025,18:22:00,65.01,Streaming subscription,Netflix,Entertainment
+TX0307,3/12/2025,22:05:00,86.22,Movie tickets,Netflix,Entertainment
+TX0308,5/28/2024,20:31:00,29.36,Ride fare,Uber,Transportation
+TX0309,3/14/2025,18:47:00,101.36,Internet bill,Internet Provider,Bills
+TX0310,6/12/2024,12:37:00,126.5,Bulk food items,Target,Groceries
+TX0311,9/19/2024,18:38:00,7.09,Bus ticket,Local Transit,Transportation
+TX0312,3/21/2025,18:17:00,37.52,Movie tickets,Spotify,Entertainment
+TX0313,6/30/2024,12:02:00,410.83,Electricity bill,Local Utility,Bills
+TX0314,2/15/2025,22:52:00,37.64,Bus ticket,Uber,Transportation
+TX0315,12/26/2024,22:01:00,7.2,Ride fare,Local Transit,Transportation
+TX0316,8/15/2024,22:20:00,466.2,Health supplement,CVS Pharmacy,Healthcare
+TX0317,2/1/2025,8:21:00,15.47,Concert tickets,Spotify,Entertainment
+TX0318,9/2/2024,8:12:00,14.5,Ride fare,Lyft,Transportation
+TX0319,2/11/2025,18:14:00,48.25,Movie tickets,Spotify,Entertainment
+TX0320,1/8/2025,8:51:00,151.47,Internet bill,Mobile Carrier,Bills
+TX0321,5/6/2024,15:02:00,54.37,Streaming subscription,AMC Theatres,Entertainment
+TX0322,6/12/2024,18:25:00,50.42,Concert tickets,Netflix,Entertainment
+TX0323,4/12/2024,12:14:00,98.53,Electricity bill,Mobile Carrier,Bills
+TX0324,1/11/2025,22:51:00,27.51,Lunch meal,McDonalds,Food & Beverage
+TX0325,9/27/2024,18:24:00,236.26,Doctor appointment fee,Walgreens,Healthcare
+TX0326,11/25/2024,20:02:00,262.66,Monthly bill payment,Mobile Carrier,Bills
+TX0327,7/29/2024,12:59:00,19.22,Dinner at restaurant,McDonalds,Food & Beverage
+TX0328,4/14/2024,15:21:00,118.39,Monthly bill payment,Internet Provider,Bills
+TX0329,3/10/2025,15:28:00,98.96,Concert tickets,Spotify,Entertainment
+TX0330,8/1/2024,22:26:00,133.59,Electricity bill,Internet Provider,Bills
+TX0331,10/24/2024,22:31:00,18.81,Ride fare,Lyft,Transportation
+TX0332,5/16/2024,18:23:00,52.2,Supermarket shopping,Walmart,Groceries
+TX0333,6/15/2024,22:33:00,130.7,Supermarket shopping,Walmart,Groceries
+TX0334,3/5/2025,18:29:00,155.4,Monthly bill payment,Local Utility,Bills
+TX0335,6/8/2024,20:27:00,26.41,Bus ticket,Uber,Transportation
+TX0336,1/22/2025,20:10:00,99.06,Movie tickets,Spotify,Entertainment
+TX0337,7/14/2024,12:52:00,15.58,Taxi service,Local Transit,Transportation
+TX0338,9/8/2024,20:11:00,90.15,Concert tickets,Spotify,Entertainment
+TX0339,12/22/2024,20:28:00,9.76,Ride fare,Local Transit,Transportation
+TX0340,7/22/2024,12:05:00,251.84,Internet bill,Mobile Carrier,Bills
+TX0341,8/21/2024,12:50:00,1220.46,Doctor appointment fee,CVS Pharmacy,Healthcare
+TX0342,8/24/2024,20:29:00,64.16,Bus ticket,Local Transit,Transportation
+TX0343,7/9/2024,18:05:00,22.4,Dinner at restaurant,McDonalds,Food & Beverage
+TX0344,2/3/2025,15:22:00,42.94,Movie tickets,AMC Theatres,Entertainment
+TX0345,10/27/2024,20:26:00,463.01,Pharmacy purchase,CVS Pharmacy,Healthcare
+TX0346,7/9/2024,20:06:00,97.45,Pharmacy purchase,Local Clinic,Healthcare
+TX0347,6/19/2024,20:31:00,83.77,Bulk food items,Costco,Groceries
+TX0348,4/1/2024,15:38:00,54.89,Movie tickets,AMC Theatres,Entertainment
+TX0349,8/7/2024,12:42:00,7.87,Taxi service,Local Transit,Transportation
+TX0350,3/11/2025,18:49:00,9.06,Taxi service,Uber,Transportation
+TX0351,3/14/2025,12:40:00,83.98,Movie tickets,Spotify,Entertainment
+TX0352,2/13/2025,22:42:00,20.88,Dinner at restaurant,Starbucks,Food & Beverage
+TX0353,9/10/2024,20:28:00,26.38,Lunch meal,Dunkin,Food & Beverage
+TX0354,9/27/2024,12:08:00,30.12,Concert tickets,Spotify,Entertainment
+TX0355,6/4/2024,12:23:00,60.04,Internet bill,Internet Provider,Bills
+TX0356,1/7/2025,18:58:00,76.85,Supermarket shopping,Walmart,Groceries
+TX0357,9/22/2024,20:26:00,46.89,Bus ticket,Local Transit,Transportation
+TX0358,5/1/2024,18:26:00,164.52,Grocery store purchase,Walmart,Groceries
+TX0359,7/12/2024,12:08:00,36.88,Streaming subscription,Spotify,Entertainment
+TX0360,4/24/2024,22:19:00,68.19,Streaming subscription,Netflix,Entertainment
+TX0361,9/28/2024,12:16:00,18.7,Ride fare,Lyft,Transportation
+TX0362,9/12/2024,20:18:00,252.13,Internet bill,Internet Provider,Bills
+TX0363,1/16/2025,18:01:00,135.02,Bulk food items,Target,Groceries
+TX0364,7/30/2024,20:04:00,17.56,Lunch meal,Dunkin,Food & Beverage
+TX0365,6/4/2024,8:38:00,21.83,Coffee purchase,McDonalds,Food & Beverage
+TX0366,7/28/2024,22:29:00,42.36,Coffee purchase,Subway,Food & Beverage
+TX0367,7/7/2024,18:05:00,67.99,Ride fare,Lyft,Transportation
+TX0368,10/16/2024,22:05:00,19.89,Coffee purchase,McDonalds,Food & Beverage
+TX0369,2/28/2025,20:36:00,10.73,Concert tickets,AMC Theatres,Entertainment
+TX0370,6/11/2024,8:37:00,173.62,Bulk food items,Walmart,Groceries
+TX0371,3/29/2025,8:32:00,37.2,Taxi service,Uber,Transportation
+TX0372,11/21/2024,12:36:00,12.36,Movie tickets,Netflix,Entertainment
+TX0373,9/13/2024,20:58:00,120.27,Health supplement,Local Clinic,Healthcare
+TX0374,5/5/2024,18:48:00,217.78,Doctor appointment fee,Local Clinic,Healthcare
+TX0375,11/5/2024,18:22:00,49.44,Bus ticket,Lyft,Transportation
+TX0376,6/30/2024,20:52:00,16.84,Coffee purchase,Subway,Food & Beverage
+TX0377,3/18/2025,20:17:00,316.44,Pharmacy purchase,Local Clinic,Healthcare
+TX0378,12/20/2024,15:52:00,13.48,Coffee purchase,Subway,Food & Beverage
+TX0379,4/5/2024,15:15:00,25.59,Dinner at restaurant,Subway,Food & Beverage
+TX0380,3/29/2024,18:51:00,61.37,Monthly bill payment,Local Utility,Bills
+TX0381,6/28/2024,18:34:00,12.27,Lunch meal,Dunkin,Food & Beverage
+TX0382,10/23/2024,20:23:00,196.42,Monthly bill payment,Local Utility,Bills
+TX0383,4/12/2024,18:10:00,35.01,Bulk food items,Costco,Groceries
+TX0384,6/8/2024,20:29:00,25.19,Concert tickets,Netflix,Entertainment
+TX0385,3/26/2025,22:07:00,184.41,Bulk food items,Target,Groceries
+TX0386,7/27/2024,20:44:00,15.33,Movie tickets,Spotify,Entertainment
+TX0387,12/8/2024,20:30:00,340.41,Monthly bill payment,Mobile Carrier,Bills
+TX0388,7/8/2024,20:15:00,311.65,Health supplement,CVS Pharmacy,Healthcare
+TX0389,8/12/2024,18:04:00,281.92,Doctor appointment fee,Walgreens,Healthcare
+TX0390,11/11/2024,22:48:00,178.09,Monthly bill payment,Internet Provider,Bills
+TX0391,10/22/2024,8:43:00,106.19,Bulk food items,Walmart,Groceries
+TX0392,1/15/2025,22:42:00,150.89,Pharmacy purchase,Local Clinic,Healthcare
+TX0393,4/28/2024,22:18:00,173.28,Grocery store purchase,Costco,Groceries
+TX0394,5/17/2024,8:41:00,19.17,Taxi service,Lyft,Transportation
+TX0395,7/27/2024,22:54:00,8.32,Dinner at restaurant,Starbucks,Food & Beverage
+TX0396,6/18/2024,18:44:00,47.36,Taxi service,Local Transit,Transportation
+TX0397,8/26/2024,20:24:00,210.35,Monthly bill payment,Local Utility,Bills
+TX0398,10/6/2024,18:52:00,214.22,Bulk food items,Target,Groceries
+TX0399,11/26/2024,20:07:00,29.01,Taxi service,Lyft,Transportation
+TX0400,12/24/2024,20:38:00,29.47,Coffee purchase,Subway,Food & Beverage
+TX0401,7/9/2024,18:13:00,65.97,Movie tickets,AMC Theatres,Entertainment
+TX0402,5/18/2024,12:50:00,151.6,Pharmacy purchase,Local Clinic,Healthcare
+TX0403,1/16/2025,18:37:00,149.87,Monthly bill payment,Mobile Carrier,Bills
+TX0404,1/27/2025,18:19:00,276.16,Health supplement,CVS Pharmacy,Healthcare
+TX0405,4/17/2024,20:49:00,48.16,Grocery store purchase,Walmart,Groceries
+TX0406,11/6/2024,18:32:00,1068.98,Internet bill,Mobile Carrier,Bills
+TX0407,10/1/2024,15:32:00,233.16,Monthly bill payment,Mobile Carrier,Bills
+TX0408,9/16/2024,22:33:00,200.34,Internet bill,Local Utility,Bills
+TX0409,5/15/2024,12:43:00,87.72,Dinner at restaurant,Dunkin,Food & Beverage
+TX0410,9/2/2024,20:03:00,14.39,Ride fare,Lyft,Transportation
+TX0411,1/31/2025,18:49:00,92.49,Movie tickets,Netflix,Entertainment
+TX0412,4/21/2024,8:45:00,56.21,Movie tickets,Netflix,Entertainment
+TX0413,4/9/2024,18:34:00,21.01,Bus ticket,Uber,Transportation
+TX0414,2/18/2025,20:39:00,8.26,Taxi service,Local Transit,Transportation
+TX0415,8/25/2024,20:36:00,80.24,Doctor appointment fee,Walgreens,Healthcare
+TX0416,2/4/2025,18:17:00,77.9,Movie tickets,AMC Theatres,Entertainment
+TX0417,2/5/2025,18:18:00,243.8,Electricity bill,Mobile Carrier,Bills
+TX0418,7/13/2024,12:16:00,372.49,Electricity bill,Internet Provider,Bills
+TX0419,8/3/2024,20:43:00,212.96,Grocery store purchase,Walmart,Groceries
+TX0420,4/17/2024,12:43:00,427.56,Pharmacy purchase,Local Clinic,Healthcare
+TX0421,1/21/2025,18:47:00,36.68,Concert tickets,AMC Theatres,Entertainment
+TX0422,9/5/2024,20:13:00,55.3,Bulk food items,Target,Groceries
+TX0423,1/1/2025,18:50:00,168.32,Internet bill,Mobile Carrier,Bills
+TX0424,8/6/2024,18:35:00,79.74,Supermarket shopping,Target,Groceries
+TX0425,7/2/2024,20:02:00,88.85,Concert tickets,AMC Theatres,Entertainment
+TX0426,12/11/2024,12:31:00,58.24,Monthly bill payment,Local Utility,Bills
+TX0427,12/5/2024,15:57:00,27.31,Coffee purchase,Starbucks,Food & Beverage
+TX0428,12/15/2024,20:47:00,66.64,Concert tickets,Spotify,Entertainment
+TX0429,12/16/2024,20:48:00,200.78,Monthly bill payment,Internet Provider,Bills
+TX0430,9/26/2024,15:02:00,20.12,Coffee purchase,Starbucks,Food & Beverage
+TX0431,3/14/2025,22:58:00,160,Supermarket shopping,Costco,Groceries
+TX0432,11/25/2024,12:10:00,22.84,Lunch meal,Starbucks,Food & Beverage
+TX0433,9/1/2024,20:41:00,435.97,Pharmacy purchase,CVS Pharmacy,Healthcare
+TX0434,1/5/2025,22:15:00,68.18,Internet bill,Local Utility,Bills
+TX0435,9/13/2024,22:29:00,283.91,Monthly bill payment,Local Utility,Bills
+TX0436,3/30/2025,8:29:00,47.15,Ride fare,Lyft,Transportation
+TX0437,9/23/2024,22:48:00,433.22,Doctor appointment fee,Walgreens,Healthcare
+TX0438,10/30/2024,18:38:00,14.79,Lunch meal,Dunkin,Food & Beverage
+TX0439,1/13/2025,18:32:00,84.99,Streaming subscription,Spotify,Entertainment
+TX0440,5/13/2024,20:27:00,30.29,Streaming subscription,Netflix,Entertainment
+TX0441,6/16/2024,22:26:00,79.29,Internet bill,Mobile Carrier,Bills
+TX0442,3/26/2025,22:43:00,23.69,Bus ticket,Local Transit,Transportation
+TX0443,12/12/2024,18:12:00,82.71,Concert tickets,Spotify,Entertainment
+TX0444,7/18/2024,8:47:00,25.85,Ride fare,Uber,Transportation
+TX0445,2/12/2025,15:39:00,304.86,Doctor appointment fee,Walgreens,Healthcare
+TX0446,4/26/2024,12:28:00,496.11,Doctor appointment fee,Walgreens,Healthcare
+TX0447,2/22/2025,22:33:00,53.28,Bus ticket,Local Transit,Transportation
+TX0448,4/14/2024,20:44:00,41.64,Bus ticket,Uber,Transportation
+TX0449,2/13/2025,22:52:00,34.25,Bus ticket,Uber,Transportation
+TX0450,7/2/2024,15:43:00,887.56,Doctor appointment fee,Walgreens,Healthcare
+TX0451,3/1/2025,8:07:00,68.3,Doctor appointment fee,Walgreens,Healthcare
+TX0452,7/28/2024,15:42:00,44.52,Bus ticket,Uber,Transportation
+TX0453,9/20/2024,15:50:00,135.21,Monthly bill payment,Local Utility,Bills
+TX0454,1/7/2025,20:56:00,67.7,Concert tickets,Spotify,Entertainment
+TX0455,1/28/2025,8:04:00,61.75,Concert tickets,Spotify,Entertainment
+TX0456,4/4/2024,15:59:00,149.71,Internet bill,Mobile Carrier,Bills
+TX0457,4/3/2024,22:44:00,7.46,Dinner at restaurant,Dunkin,Food & Beverage
+TX0458,12/3/2024,12:17:00,195.11,Supermarket shopping,Walmart,Groceries
+TX0459,7/27/2024,22:27:00,649.85,Pharmacy purchase,CVS Pharmacy,Healthcare
+TX0460,1/2/2025,18:31:00,143.42,Bulk food items,Costco,Groceries
+TX0461,8/16/2024,18:11:00,14.71,Dinner at restaurant,Dunkin,Food & Beverage
+TX0462,5/3/2024,20:05:00,71.02,Streaming subscription,AMC Theatres,Entertainment
+TX0463,7/4/2024,20:23:00,27.57,Lunch meal,Dunkin,Food & Beverage
+TX0464,5/29/2024,18:48:00,285.27,Internet bill,Internet Provider,Bills
+TX0465,12/2/2024,18:41:00,167.64,Bulk food items,Costco,Groceries
+TX0466,10/19/2024,18:19:00,95.67,Pharmacy purchase,CVS Pharmacy,Healthcare
+TX0467,1/23/2025,20:48:00,47.61,Concert tickets,Spotify,Entertainment
+TX0468,3/15/2025,18:23:00,42.26,Ride fare,Uber,Transportation
+TX0469,2/26/2025,20:45:00,247,Internet bill,Mobile Carrier,Bills
+TX0470,11/2/2024,12:49:00,212.68,Electricity bill,Local Utility,Bills
+TX0471,10/5/2024,8:50:00,19.79,Streaming subscription,AMC Theatres,Entertainment
+TX0472,1/13/2025,20:18:00,134.37,Pharmacy purchase,Walgreens,Healthcare
+TX0473,3/11/2025,12:02:00,89.24,Bulk food items,Walmart,Groceries
+TX0474,6/18/2024,20:42:00,93.41,Movie tickets,Spotify,Entertainment
+TX0475,5/12/2024,15:24:00,42.58,Taxi service,Lyft,Transportation
+TX0476,4/14/2024,20:34:00,95.16,Supermarket shopping,Walmart,Groceries
+TX0477,2/9/2025,12:54:00,11.87,Lunch meal,Starbucks,Food & Beverage
+TX0478,5/9/2024,18:36:00,461.27,Doctor appointment fee,CVS Pharmacy,Healthcare
+TX0479,2/24/2025,15:43:00,216.18,Internet bill,Internet Provider,Bills
+TX0480,2/20/2025,18:38:00,64.1,Movie tickets,AMC Theatres,Entertainment
+TX0481,7/16/2024,18:29:00,28.55,Bus ticket,Lyft,Transportation
+TX0482,8/30/2024,8:02:00,282.3,Monthly bill payment,Internet Provider,Bills
+TX0483,11/23/2024,20:53:00,77.32,Health supplement,Local Clinic,Healthcare
+TX0484,8/14/2024,12:33:00,34.48,Ride fare,Local Transit,Transportation
+TX0485,4/11/2024,22:09:00,261.87,Internet bill,Internet Provider,Bills
+TX0486,12/2/2024,20:32:00,14.19,Lunch meal,Subway,Food & Beverage
+TX0487,11/23/2024,18:19:00,205.26,Internet bill,Mobile Carrier,Bills
+TX0488,12/30/2024,18:05:00,43.18,Taxi service,Uber,Transportation
+TX0489,2/23/2025,18:43:00,49.7,Streaming subscription,AMC Theatres,Entertainment
+TX0490,8/4/2024,20:42:00,47.21,Ride fare,Local Transit,Transportation
+TX0491,4/23/2024,20:39:00,6.73,Lunch meal,Starbucks,Food & Beverage
+TX0492,7/23/2024,8:25:00,300.65,Health supplement,Walgreens,Healthcare
+TX0493,10/20/2024,20:09:00,493.3,Health supplement,Local Clinic,Healthcare
+TX0494,1/3/2025,18:25:00,75.43,Doctor appointment fee,CVS Pharmacy,Healthcare
+TX0495,3/19/2025,18:23:00,259.73,Health supplement,Local Clinic,Healthcare
+TX0496,12/1/2024,20:54:00,41.58,Lunch meal,McDonalds,Food & Beverage
+TX0497,9/24/2024,22:48:00,126.78,Grocery store purchase,Walmart,Groceries
+TX0498,11/3/2024,20:06:00,158.66,Bulk food items,Costco,Groceries
+TX0499,5/26/2024,20:00:00,16.47,Coffee purchase,McDonalds,Food & Beverage
+TX0500,4/2/2024,15:48:00,106.74,Internet bill,Mobile Carrier,Bills
+TX0501,12/12/2024,20:59:00,179.38,Grocery store purchase,Target,Groceries
+TX0502,3/10/2025,20:50:00,159.38,Supermarket shopping,Walmart,Groceries
+TX0503,5/22/2024,12:44:00,71.92,Monthly bill payment,Internet Provider,Bills
+TX0504,8/18/2024,22:48:00,97.2,Movie tickets,AMC Theatres,Entertainment
+TX0505,4/6/2024,22:49:00,19.76,Movie tickets,Netflix,Entertainment
+TX0506,7/3/2024,8:59:00,29.23,Coffee purchase,Starbucks,Food & Beverage
+TX0507,3/5/2025,12:56:00,10.87,Ride fare,Uber,Transportation
+TX0508,4/26/2024,18:49:00,23.35,Dinner at restaurant,Dunkin,Food & Beverage
+TX0509,5/17/2024,22:25:00,263.74,Electricity bill,Local Utility,Bills
+TX0510,2/10/2025,20:59:00,27.24,Coffee purchase,Starbucks,Food & Beverage
+TX0511,5/7/2024,20:54:00,20.51,Lunch meal,Starbucks,Food & Beverage
+TX0512,10/25/2024,12:18:00,175.85,Pharmacy purchase,CVS Pharmacy,Healthcare
+TX0513,8/4/2024,20:36:00,418.08,Doctor appointment fee,Walgreens,Healthcare
+TX0514,10/7/2024,12:13:00,442.24,Health supplement,CVS Pharmacy,Healthcare
+TX0515,6/21/2024,20:32:00,42.67,Bus ticket,Lyft,Transportation
+TX0516,3/6/2025,15:00:00,10.46,Movie tickets,Spotify,Entertainment
+TX0517,10/7/2024,18:58:00,195.74,Supermarket shopping,Costco,Groceries
+TX0518,2/4/2025,12:27:00,5.72,Dinner at restaurant,Subway,Food & Beverage
+TX0519,10/27/2024,20:35:00,660.23,Doctor appointment fee,Walgreens,Healthcare
+TX0520,8/4/2024,15:04:00,49.44,Concert tickets,Netflix,Entertainment
+TX0521,10/3/2024,18:34:00,16.78,Coffee purchase,Subway,Food & Beverage
+TX0522,10/1/2024,20:40:00,97.64,Bulk food items,Costco,Groceries
+TX0523,12/3/2024,20:24:00,312.97,Pharmacy purchase,Walgreens,Healthcare
+TX0524,2/17/2025,8:07:00,96.45,Concert tickets,AMC Theatres,Entertainment
+TX0525,4/1/2024,20:44:00,486.09,Doctor appointment fee,CVS Pharmacy,Healthcare
+TX0526,3/1/2025,20:24:00,22.95,Dinner at restaurant,Dunkin,Food & Beverage
+TX0527,5/17/2024,20:43:00,178.45,Internet bill,Internet Provider,Bills
+TX0528,3/1/2025,18:06:00,325.62,Doctor appointment fee,Walgreens,Healthcare
+TX0529,11/12/2024,22:06:00,29.36,Ride fare,Local Transit,Transportation
+TX0530,11/16/2024,8:51:00,50.18,Concert tickets,AMC Theatres,Entertainment
+TX0531,12/11/2024,18:09:00,21.72,Dinner at restaurant,Dunkin,Food & Beverage
+TX0532,1/18/2025,12:01:00,12.12,Dinner at restaurant,Starbucks,Food & Beverage
+TX0533,8/2/2024,18:26:00,197.42,Health supplement,Walgreens,Healthcare
+TX0534,7/13/2024,20:28:00,35.26,Dinner at restaurant,Dunkin,Food & Beverage
+TX0535,4/9/2024,18:04:00,49.89,Ride fare,Uber,Transportation
+TX0536,12/10/2024,12:25:00,110.68,Bulk food items,Walmart,Groceries
+TX0537,5/17/2024,18:33:00,15.57,Dinner at restaurant,McDonalds,Food & Beverage
+TX0538,1/27/2025,8:49:00,173.86,Pharmacy purchase,CVS Pharmacy,Healthcare
+TX0539,10/9/2024,8:42:00,31.56,Streaming subscription,Spotify,Entertainment
+TX0540,5/13/2024,20:11:00,25.26,Concert tickets,Netflix,Entertainment
+TX0541,7/22/2024,18:29:00,382.43,Pharmacy purchase,Local Clinic,Healthcare
+TX0542,6/24/2024,20:49:00,280.21,Internet bill,Local Utility,Bills
+TX0543,7/14/2024,18:50:00,251.63,Internet bill,Mobile Carrier,Bills
+TX0544,11/17/2024,22:40:00,389.4,Electricity bill,Mobile Carrier,Bills
+TX0545,11/17/2024,18:16:00,67.76,Bus ticket,Local Transit,Transportation
+TX0546,4/13/2024,22:10:00,305.32,Internet bill,Internet Provider,Bills
+TX0547,6/22/2024,18:02:00,43.32,Ride fare,Lyft,Transportation
+TX0548,1/13/2025,15:22:00,12,Dinner at restaurant,Subway,Food & Beverage
+TX0549,4/18/2024,20:17:00,107.83,Supermarket shopping,Costco,Groceries
+TX0550,9/28/2024,15:53:00,192.15,Pharmacy purchase,CVS Pharmacy,Healthcare
+TX0551,5/17/2024,15:45:00,14.78,Ride fare,Uber,Transportation
+TX0552,2/16/2025,8:14:00,220.53,Bulk food items,Target,Groceries
+TX0553,12/31/2024,12:33:00,25.14,Coffee purchase,Subway,Food & Beverage
+TX0554,8/31/2024,20:24:00,12.33,Movie tickets,AMC Theatres,Entertainment
+TX0555,9/21/2024,8:24:00,141.92,Internet bill,Mobile Carrier,Bills
+TX0556,5/16/2024,20:00:00,284.09,Monthly bill payment,Local Utility,Bills
+TX0557,10/20/2024,20:39:00,251.19,Electricity bill,Internet Provider,Bills
+TX0558,6/21/2024,12:52:00,212.44,Internet bill,Mobile Carrier,Bills
+TX0559,7/17/2024,12:22:00,15.64,Ride fare,Local Transit,Transportation
+TX0560,7/30/2024,20:13:00,103.31,Electricity bill,Local Utility,Bills
+TX0561,3/13/2025,22:56:00,135.82,Doctor appointment fee,CVS Pharmacy,Healthcare
+TX0562,8/31/2024,15:57:00,33.99,Coffee purchase,Subway,Food & Beverage
+TX0563,7/31/2024,22:01:00,6.45,Lunch meal,Dunkin,Food & Beverage
+TX0564,5/24/2024,20:02:00,51.82,Supermarket shopping,Costco,Groceries
+TX0565,9/26/2024,12:12:00,19.4,Bus ticket,Local Transit,Transportation
+TX0566,10/6/2024,8:56:00,20.42,Coffee purchase,Subway,Food & Beverage
+TX0567,7/26/2024,8:36:00,48.7,Bus ticket,Lyft,Transportation
+TX0568,11/10/2024,20:34:00,32.3,Coffee purchase,Subway,Food & Beverage
+TX0569,8/23/2024,20:17:00,31.29,Taxi service,Uber,Transportation
+TX0570,4/29/2024,20:39:00,39.39,Streaming subscription,Spotify,Entertainment
+TX0571,1/30/2025,15:46:00,80.91,Doctor appointment fee,Walgreens,Healthcare
+TX0572,7/31/2024,18:44:00,24.8,Coffee purchase,Starbucks,Food & Beverage
+TX0573,10/6/2024,20:45:00,104.56,Monthly bill payment,Internet Provider,Bills
+TX0574,1/3/2025,20:36:00,28.03,Streaming subscription,Netflix,Entertainment
+TX0575,7/31/2024,20:54:00,18.91,Taxi service,Local Transit,Transportation
+TX0576,8/20/2024,12:19:00,186.46,Bulk food items,Walmart,Groceries
+TX0577,1/25/2025,22:42:00,42.46,Bus ticket,Lyft,Transportation
+TX0578,9/27/2024,12:31:00,36.18,Streaming subscription,AMC Theatres,Entertainment
+TX0579,2/11/2025,15:30:00,188.97,Grocery store purchase,Walmart,Groceries
+TX0580,2/19/2025,8:37:00,228.57,Internet bill,Mobile Carrier,Bills
+TX0581,1/10/2025,20:01:00,34.06,Bulk food items,Walmart,Groceries
+TX0582,1/16/2025,22:39:00,14.12,Bus ticket,Local Transit,Transportation
+TX0583,1/10/2025,20:52:00,93.38,Bulk food items,Walmart,Groceries
+TX0584,4/2/2024,12:12:00,143.87,Grocery store purchase,Costco,Groceries
+TX0585,6/16/2024,18:20:00,26.11,Coffee purchase,Dunkin,Food & Beverage
+TX0586,9/27/2024,8:21:00,60.58,Concert tickets,AMC Theatres,Entertainment
+TX0587,6/13/2024,20:09:00,53.41,Internet bill,Internet Provider,Bills
+TX0588,4/13/2024,20:20:00,609.97,Health supplement,Local Clinic,Healthcare
+TX0589,10/19/2024,22:09:00,16.3,Dinner at restaurant,Starbucks,Food & Beverage
+TX0590,8/19/2024,22:59:00,68.25,Monthly bill payment,Local Utility,Bills
+TX0591,3/1/2025,20:49:00,181.69,Bulk food items,Costco,Groceries
+TX0592,4/14/2024,15:06:00,11.8,Dinner at restaurant,Dunkin,Food & Beverage
+TX0593,12/30/2024,8:54:00,34.81,Supermarket shopping,Costco,Groceries
+TX0594,8/8/2024,20:07:00,89.34,Movie tickets,AMC Theatres,Entertainment
+TX0595,12/4/2024,12:26:00,231.79,Health supplement,CVS Pharmacy,Healthcare
+TX0596,8/1/2024,20:23:00,81.55,Health supplement,Local Clinic,Healthcare
+TX0597,6/19/2024,20:24:00,157.98,Grocery store purchase,Walmart,Groceries
+TX0598,6/24/2024,20:17:00,345.76,Doctor appointment fee,Walgreens,Healthcare
+TX0599,11/19/2024,15:26:00,443.03,Pharmacy purchase,Walgreens,Healthcare
+TX0600,11/17/2024,8:53:00,86.97,Streaming subscription,Netflix,Entertainment
+TX0601,11/6/2024,18:43:00,23.72,Dinner at restaurant,Subway,Food & Beverage
+TX0602,12/9/2024,20:39:00,195.27,Monthly bill payment,Internet Provider,Bills
+TX0603,7/30/2024,18:49:00,6.75,Coffee purchase,McDonalds,Food & Beverage
+TX0604,10/9/2024,22:24:00,180.99,Health supplement,Walgreens,Healthcare
+TX0605,3/26/2025,18:31:00,122.98,Doctor appointment fee,CVS Pharmacy,Healthcare
+TX0606,3/17/2025,12:01:00,20.24,Concert tickets,AMC Theatres,Entertainment
+TX0607,4/14/2024,18:28:00,98.68,Bulk food items,Walmart,Groceries
+TX0608,7/12/2024,8:39:00,5.3,Dinner at restaurant,Dunkin,Food & Beverage
+TX0609,2/14/2025,20:28:00,47.61,Taxi service,Lyft,Transportation
+TX0610,10/22/2024,20:25:00,19.14,Dinner at restaurant,McDonalds,Food & Beverage
+TX0611,12/19/2024,15:54:00,21.5,Taxi service,Uber,Transportation
+TX0612,4/14/2024,15:54:00,106.75,Streaming subscription,Spotify,Entertainment
+TX0613,5/17/2024,18:26:00,46.54,Supermarket shopping,Costco,Groceries
+TX0614,1/25/2025,12:40:00,7.35,Coffee purchase,Dunkin,Food & Beverage
+TX0615,6/7/2024,18:13:00,73.34,Concert tickets,AMC Theatres,Entertainment
+TX0616,2/20/2025,20:16:00,141.85,Doctor appointment fee,Local Clinic,Healthcare
+TX0617,2/5/2025,8:54:00,6.99,Bus ticket,Uber,Transportation
+TX0618,2/1/2025,18:56:00,648.55,Health supplement,Walgreens,Healthcare
+TX0619,6/18/2024,15:09:00,71.02,Grocery store purchase,Walmart,Groceries
+TX0620,1/28/2025,15:38:00,23.74,Taxi service,Local Transit,Transportation
+TX0621,2/19/2025,8:48:00,69.35,Movie tickets,Spotify,Entertainment
+TX0622,1/20/2025,8:37:00,86.52,Streaming subscription,Netflix,Entertainment
+TX0623,6/6/2024,20:44:00,32.51,Ride fare,Lyft,Transportation
+TX0624,2/4/2025,20:03:00,16.95,Lunch meal,McDonalds,Food & Beverage
+TX0625,6/28/2024,20:42:00,410.08,Electricity bill,Internet Provider,Bills
+TX0626,3/3/2025,18:35:00,55.49,Concert tickets,Netflix,Entertainment
+TX0627,6/16/2024,8:17:00,319.06,Monthly bill payment,Internet Provider,Bills
+TX0628,7/18/2024,18:24:00,191.59,Electricity bill,Local Utility,Bills
+TX0629,11/16/2024,8:07:00,35.3,Ride fare,Uber,Transportation
+TX0630,6/22/2024,20:54:00,7.39,Lunch meal,Starbucks,Food & Beverage
+TX0631,10/21/2024,20:13:00,9.13,Coffee purchase,Dunkin,Food & Beverage
+TX0632,9/12/2024,22:04:00,220.51,Doctor appointment fee,CVS Pharmacy,Healthcare
+TX0633,5/29/2024,20:00:00,464.78,Pharmacy purchase,CVS Pharmacy,Healthcare
+TX0634,1/22/2025,12:32:00,123.2,Internet bill,Local Utility,Bills
+TX0635,8/14/2024,18:25:00,480.19,Pharmacy purchase,CVS Pharmacy,Healthcare
+TX0636,10/17/2024,18:20:00,226.76,Internet bill,Local Utility,Bills
+TX0637,10/26/2024,15:03:00,116.18,Internet bill,Local Utility,Bills
+TX0638,1/27/2025,18:57:00,64.28,Movie tickets,AMC Theatres,Entertainment
+TX0639,5/15/2024,20:27:00,28.77,Bus ticket,Lyft,Transportation
+TX0640,6/30/2024,18:40:00,96.46,Concert tickets,Netflix,Entertainment
+TX0641,6/21/2024,20:21:00,13.67,Coffee purchase,Subway,Food & Beverage
+TX0642,10/21/2024,22:32:00,47.26,Grocery store purchase,Walmart,Groceries
+TX0643,9/3/2024,15:00:00,197.17,Bulk food items,Target,Groceries
+TX0644,7/1/2024,20:08:00,15.99,Lunch meal,McDonalds,Food & Beverage
+TX0645,6/7/2024,20:08:00,64.5,Bulk food items,Costco,Groceries
+TX0646,1/15/2025,18:36:00,483.19,Health supplement,Local Clinic,Healthcare
+TX0647,12/18/2024,20:47:00,172.33,Doctor appointment fee,Local Clinic,Healthcare
+TX0648,11/19/2024,22:04:00,11.47,Dinner at restaurant,Dunkin,Food & Beverage
+TX0649,6/8/2024,20:29:00,146.1,Electricity bill,Local Utility,Bills
+TX0650,8/9/2024,22:22:00,273.31,Electricity bill,Mobile Carrier,Bills
+TX0651,1/30/2025,20:23:00,338.67,Internet bill,Internet Provider,Bills
+TX0652,1/3/2025,15:19:00,13.77,Bus ticket,Uber,Transportation
+TX0653,12/20/2024,8:26:00,37,Grocery store purchase,Walmart,Groceries
+TX0654,2/28/2025,20:45:00,19.71,Lunch meal,Dunkin,Food & Beverage
+TX0655,7/20/2024,20:51:00,23.71,Ride fare,Local Transit,Transportation
+TX0656,2/2/2025,20:32:00,240.52,Grocery store purchase,Target,Groceries
+TX0657,8/3/2024,18:00:00,473.13,Doctor appointment fee,Walgreens,Healthcare
+TX0658,12/3/2024,18:06:00,23.13,Ride fare,Lyft,Transportation
+TX0659,7/11/2024,22:45:00,203.12,Electricity bill,Internet Provider,Bills
+TX0660,9/12/2024,8:38:00,295.66,Internet bill,Local Utility,Bills
+TX0661,7/24/2024,12:58:00,213.36,Health supplement,Walgreens,Healthcare
+TX0662,1/16/2025,15:04:00,196.73,Electricity bill,Local Utility,Bills
+TX0663,12/11/2024,12:38:00,97.78,Movie tickets,Netflix,Entertainment
+TX0664,4/23/2024,12:55:00,61.06,Monthly bill payment,Internet Provider,Bills
+TX0665,12/2/2024,22:58:00,87.21,Grocery store purchase,Costco,Groceries
+TX0666,8/17/2024,20:45:00,39.88,Bus ticket,Lyft,Transportation
+TX0667,3/30/2025,20:37:00,5.96,Coffee purchase,Subway,Food & Beverage
+TX0668,9/10/2024,8:27:00,47.26,Taxi service,Local Transit,Transportation
+TX0669,7/16/2024,20:07:00,34,Bulk food items,Costco,Groceries
+TX0670,2/18/2025,22:30:00,78.37,Electricity bill,Local Utility,Bills
+TX0671,10/21/2024,18:36:00,236.34,Electricity bill,Internet Provider,Bills
+TX0672,3/29/2025,18:38:00,22.59,Dinner at restaurant,Subway,Food & Beverage
+TX0673,9/16/2024,20:21:00,120.39,Grocery store purchase,Costco,Groceries
+TX0674,5/25/2024,12:31:00,41.3,Streaming subscription,Netflix,Entertainment
+TX0675,7/2/2024,15:04:00,29.59,Lunch meal,Subway,Food & Beverage
+TX0676,2/18/2025,20:15:00,17.74,Taxi service,Lyft,Transportation
+TX0677,9/27/2024,20:37:00,14.44,Lunch meal,McDonalds,Food & Beverage
+TX0678,1/21/2025,20:28:00,164.04,Health supplement,Local Clinic,Healthcare
+TX0679,12/17/2024,18:02:00,86.04,Movie tickets,AMC Theatres,Entertainment
+TX0680,6/25/2024,20:21:00,118.11,Grocery store purchase,Walmart,Groceries
+TX0681,8/19/2024,20:23:00,329.1,Doctor appointment fee,CVS Pharmacy,Healthcare
+TX0682,3/19/2025,18:01:00,249.71,Electricity bill,Internet Provider,Bills
+TX0683,2/4/2025,22:13:00,13.86,Lunch meal,Dunkin,Food & Beverage
+TX0684,8/14/2024,15:45:00,271.18,Monthly bill payment,Mobile Carrier,Bills
+TX0685,4/13/2024,20:59:00,168.54,Electricity bill,Local Utility,Bills
+TX0686,3/6/2025,8:53:00,21.31,Bus ticket,Uber,Transportation
+TX0687,3/15/2025,12:20:00,51.58,Concert tickets,Spotify,Entertainment
+TX0688,5/31/2024,20:56:00,56.25,Movie tickets,Spotify,Entertainment
+TX0689,9/9/2024,18:35:00,35.09,Ride fare,Uber,Transportation
+TX0690,10/23/2024,15:21:00,22.17,Bulk food items,Target,Groceries
+TX0691,12/30/2024,20:20:00,81.56,Pharmacy purchase,CVS Pharmacy,Healthcare
+TX0692,1/17/2025,18:32:00,80.3,Pharmacy purchase,CVS Pharmacy,Healthcare
+TX0693,1/8/2025,18:37:00,22.49,Bus ticket,Uber,Transportation
+TX0694,3/27/2025,20:10:00,160.62,Electricity bill,Mobile Carrier,Bills
+TX0695,5/8/2024,12:01:00,312.02,Doctor appointment fee,Walgreens,Healthcare
+TX0696,9/30/2024,22:25:00,82.56,Grocery store purchase,Target,Groceries
+TX0697,9/20/2024,15:38:00,20.03,Bus ticket,Uber,Transportation
+TX0698,5/3/2024,18:10:00,23.8,Lunch meal,Dunkin,Food & Beverage
+TX0699,11/3/2024,18:33:00,37.45,Taxi service,Lyft,Transportation
+TX0700,8/5/2024,20:48:00,137.99,Supermarket shopping,Costco,Groceries
+TX0701,10/31/2024,12:47:00,310.23,Doctor appointment fee,CVS Pharmacy,Healthcare
+TX0702,3/4/2025,20:56:00,26.67,Lunch meal,Dunkin,Food & Beverage
+TX0703,5/25/2024,8:35:00,43.16,Concert tickets,Spotify,Entertainment
+TX0704,5/31/2024,15:41:00,9.21,Lunch meal,Dunkin,Food & Beverage
+TX0705,6/19/2024,22:38:00,343.84,Doctor appointment fee,CVS Pharmacy,Healthcare
+TX0706,6/3/2024,15:20:00,121.82,Electricity bill,Mobile Carrier,Bills
+TX0707,9/19/2024,8:23:00,225.88,Monthly bill payment,Local Utility,Bills
+TX0708,7/11/2024,18:49:00,116.76,Electricity bill,Internet Provider,Bills
+TX0709,1/3/2025,15:41:00,67.25,Streaming subscription,AMC Theatres,Entertainment
+TX0710,2/8/2025,15:08:00,333.33,Electricity bill,Mobile Carrier,Bills
+TX0711,1/22/2025,20:14:00,10.24,Dinner at restaurant,Starbucks,Food & Beverage
+TX0712,12/16/2024,20:16:00,28.45,Concert tickets,Spotify,Entertainment
+TX0713,12/31/2024,12:17:00,249.87,Health supplement,Local Clinic,Healthcare
+TX0714,10/28/2024,15:57:00,173.83,Bulk food items,Walmart,Groceries
+TX0715,8/27/2024,20:12:00,8.62,Dinner at restaurant,Dunkin,Food & Beverage
+TX0716,5/2/2024,20:47:00,78.38,Streaming subscription,Netflix,Entertainment
+TX0717,2/5/2025,22:21:00,36.22,Concert tickets,Spotify,Entertainment
+TX0718,12/13/2024,20:00:00,487.68,Pharmacy purchase,CVS Pharmacy,Healthcare
+TX0719,5/9/2024,20:54:00,144.73,Internet bill,Internet Provider,Bills
+TX0720,8/30/2024,18:41:00,365.38,Health supplement,Walgreens,Healthcare
+TX0721,1/10/2025,18:06:00,124.5,Bulk food items,Target,Groceries
+TX0722,4/8/2024,18:50:00,49.47,Ride fare,Lyft,Transportation
+TX0723,10/24/2024,22:21:00,129.95,Grocery store purchase,Costco,Groceries
+TX0724,9/11/2024,22:34:00,50.94,Movie tickets,Netflix,Entertainment
+TX0725,8/17/2024,20:09:00,342.43,Internet bill,Internet Provider,Bills
+TX0726,1/22/2025,20:48:00,200.61,Doctor appointment fee,CVS Pharmacy,Healthcare
+TX0727,12/12/2024,15:35:00,12.83,Dinner at restaurant,Subway,Food & Beverage
+TX0728,11/14/2024,15:40:00,453.73,Pharmacy purchase,Local Clinic,Healthcare
+TX0729,2/9/2025,20:42:00,37.11,Bus ticket,Local Transit,Transportation
+TX0730,7/7/2024,12:22:00,56.45,Grocery store purchase,Costco,Groceries
+TX0731,1/8/2025,22:04:00,27.14,Coffee purchase,McDonalds,Food & Beverage
+TX0732,9/25/2024,12:40:00,40.44,Streaming subscription,Netflix,Entertainment
+TX0733,5/29/2024,18:30:00,100.72,Bulk food items,Walmart,Groceries
+TX0734,6/18/2024,18:45:00,281.65,Electricity bill,Internet Provider,Bills
+TX0735,7/7/2024,8:54:00,80.65,Streaming subscription,Spotify,Entertainment
+TX0736,3/17/2025,22:40:00,55.7,Internet bill,Mobile Carrier,Bills
+TX0737,1/28/2025,22:33:00,50.28,Movie tickets,Netflix,Entertainment
+TX0738,1/29/2025,18:24:00,5.79,Ride fare,Lyft,Transportation
+TX0739,1/1/2025,12:51:00,17.19,Taxi service,Local Transit,Transportation
+TX0740,8/17/2024,12:02:00,49.52,Bus ticket,Uber,Transportation
+TX0741,5/23/2024,12:23:00,86.98,Internet bill,Local Utility,Bills
+TX0742,8/7/2024,18:57:00,12.5,Dinner at restaurant,Subway,Food & Beverage
+TX0743,1/10/2025,8:27:00,129.59,Bulk food items,Costco,Groceries
+TX0744,5/21/2024,20:57:00,19.21,Dinner at restaurant,McDonalds,Food & Beverage
+TX0745,11/30/2024,18:24:00,264.74,Internet bill,Internet Provider,Bills
+TX0746,5/8/2024,8:58:00,75.93,Concert tickets,Spotify,Entertainment
+TX0747,4/11/2024,8:47:00,284.28,Electricity bill,Local Utility,Bills
+TX0748,10/23/2024,15:02:00,492.93,Doctor appointment fee,Local Clinic,Healthcare
+TX0749,1/30/2025,12:46:00,493.35,Health supplement,Local Clinic,Healthcare
+TX0750,7/19/2024,15:45:00,271.07,Monthly bill payment,Mobile Carrier,Bills
+TX0751,7/20/2024,20:11:00,309.11,Electricity bill,Local Utility,Bills
+TX0752,2/3/2025,20:24:00,59.17,Movie tickets,Spotify,Entertainment
+TX0753,8/21/2024,8:11:00,31.05,Bus ticket,Uber,Transportation
+TX0754,9/4/2024,18:34:00,61.47,Supermarket shopping,Walmart,Groceries
+TX0755,7/6/2024,20:13:00,153.72,Doctor appointment fee,Walgreens,Healthcare
+TX0756,12/17/2024,15:02:00,40.96,Taxi service,Uber,Transportation
+TX0757,1/27/2025,22:45:00,96.96,Movie tickets,AMC Theatres,Entertainment
+TX0758,6/11/2024,20:28:00,296.29,Monthly bill payment,Mobile Carrier,Bills
+TX0759,5/24/2024,22:36:00,31.44,Bus ticket,Lyft,Transportation
+TX0760,3/24/2025,8:54:00,19.52,Ride fare,Local Transit,Transportation
+TX0761,4/17/2024,20:43:00,45.32,Streaming subscription,AMC Theatres,Entertainment
+TX0762,9/8/2024,12:29:00,110.23,Movie tickets,AMC Theatres,Entertainment
+TX0763,7/28/2024,12:17:00,57.53,Taxi service,Lyft,Transportation
+TX0764,8/7/2024,8:27:00,210.67,Doctor appointment fee,CVS Pharmacy,Healthcare
+TX0765,2/17/2025,8:11:00,89.96,Movie tickets,Netflix,Entertainment
+TX0766,2/3/2025,12:03:00,281.5,Internet bill,Internet Provider,Bills
+TX0767,8/4/2024,15:25:00,605.08,Pharmacy purchase,Local Clinic,Healthcare
+TX0768,2/1/2025,8:43:00,161.93,Internet bill,Mobile Carrier,Bills
+TX0769,3/7/2025,22:08:00,77.06,Grocery store purchase,Walmart,Groceries
+TX0770,8/12/2024,20:15:00,73.1,Grocery store purchase,Walmart,Groceries
+TX0771,10/6/2024,20:23:00,533.09,Pharmacy purchase,Walgreens,Healthcare
+TX0772,8/1/2024,15:21:00,219.26,Monthly bill payment,Internet Provider,Bills
+TX0773,8/5/2024,18:46:00,139.44,Bulk food items,Walmart,Groceries
+TX0774,7/31/2024,18:52:00,25.65,Movie tickets,AMC Theatres,Entertainment
+TX0775,1/26/2025,22:29:00,18.94,Concert tickets,AMC Theatres,Entertainment
+TX0776,6/26/2024,12:14:00,32.18,Ride fare,Local Transit,Transportation
+TX0777,3/30/2024,20:58:00,384.32,Monthly bill payment,Mobile Carrier,Bills
+TX0778,5/19/2024,15:19:00,224.04,Internet bill,Mobile Carrier,Bills
+TX0779,9/30/2024,18:41:00,44.95,Grocery store purchase,Walmart,Groceries
+TX0780,6/30/2024,18:21:00,6.57,Lunch meal,Subway,Food & Beverage
+TX0781,7/14/2024,22:32:00,47.89,Grocery store purchase,Walmart,Groceries
+TX0782,2/20/2025,18:42:00,88.68,Supermarket shopping,Target,Groceries
+TX0783,7/9/2024,20:32:00,44.47,Ride fare,Uber,Transportation
+TX0784,11/15/2024,15:45:00,217.25,Internet bill,Internet Provider,Bills
+TX0785,5/1/2024,20:07:00,75.29,Monthly bill payment,Internet Provider,Bills
+TX0786,5/12/2024,18:43:00,87.93,Monthly bill payment,Mobile Carrier,Bills
+TX0787,4/4/2024,18:09:00,96.67,Grocery store purchase,Costco,Groceries
+TX0788,10/7/2024,8:49:00,30.01,Concert tickets,Netflix,Entertainment
+TX0789,10/11/2024,18:13:00,210.25,Electricity bill,Mobile Carrier,Bills
+TX0790,7/11/2024,20:01:00,28.07,Ride fare,Lyft,Transportation
+TX0791,2/28/2025,22:53:00,49.07,Streaming subscription,AMC Theatres,Entertainment
+TX0792,10/29/2024,8:51:00,298.67,Monthly bill payment,Internet Provider,Bills
+TX0793,6/29/2024,12:51:00,20.53,Bus ticket,Local Transit,Transportation
+TX0794,4/3/2024,15:51:00,343.58,Pharmacy purchase,Local Clinic,Healthcare
+TX0795,6/2/2024,22:45:00,172.58,Monthly bill payment,Local Utility,Bills
+TX0796,11/6/2024,12:08:00,283.22,Internet bill,Internet Provider,Bills
+TX0797,10/22/2024,8:07:00,68.13,Supermarket shopping,Target,Groceries
+TX0798,7/14/2024,12:38:00,18.11,Coffee purchase,Starbucks,Food & Beverage
+TX0799,2/25/2025,18:31:00,334.33,Pharmacy purchase,Walgreens,Healthcare
+TX0800,2/22/2025,12:05:00,231.54,Supermarket shopping,Target,Groceries
+TX0801,6/12/2024,12:01:00,179.14,Bulk food items,Target,Groceries
+TX0802,10/20/2024,8:28:00,57.25,Ride fare,Lyft,Transportation
+TX0803,9/12/2024,22:11:00,297.51,Monthly bill payment,Mobile Carrier,Bills
+TX0804,12/29/2024,20:04:00,87.92,Movie tickets,Spotify,Entertainment
+TX0805,7/17/2024,20:52:00,5.81,Bus ticket,Lyft,Transportation
+TX0806,3/7/2025,12:02:00,35.26,Ride fare,Local Transit,Transportation
+TX0807,1/28/2025,18:03:00,14.86,Coffee purchase,Dunkin,Food & Beverage
+TX0808,7/14/2024,18:09:00,208.02,Grocery store purchase,Walmart,Groceries
+TX0809,3/3/2025,12:04:00,75.87,Concert tickets,Netflix,Entertainment
+TX0810,2/24/2025,20:34:00,74.7,Movie tickets,Spotify,Entertainment
+TX0811,3/18/2025,18:17:00,51.98,Movie tickets,Spotify,Entertainment
+TX0812,9/20/2024,12:49:00,53.66,Grocery store purchase,Target,Groceries
+TX0813,4/13/2024,12:13:00,117.51,Movie tickets,Spotify,Entertainment
+TX0814,6/14/2024,15:48:00,7.74,Dinner at restaurant,Starbucks,Food & Beverage
+TX0815,1/4/2025,8:38:00,337.55,Electricity bill,Mobile Carrier,Bills
+TX0816,11/13/2024,15:35:00,478.26,Pharmacy purchase,CVS Pharmacy,Healthcare
+TX0817,11/24/2024,22:16:00,36,Dinner at restaurant,Dunkin,Food & Beverage
+TX0818,11/10/2024,20:23:00,236.38,Internet bill,Local Utility,Bills
+TX0819,10/16/2024,15:57:00,15.66,Dinner at restaurant,Starbucks,Food & Beverage
+TX0820,6/13/2024,20:29:00,378.74,Pharmacy purchase,CVS Pharmacy,Healthcare
+TX0821,2/9/2025,20:00:00,311.29,Health supplement,Walgreens,Healthcare
+TX0822,12/7/2024,20:00:00,448.76,Movie tickets,Netflix,Entertainment
+TX0823,2/25/2025,12:01:00,35.21,Movie tickets,AMC Theatres,Entertainment
+TX0824,1/7/2025,20:37:00,272.63,Monthly bill payment,Mobile Carrier,Bills
+TX0825,12/3/2024,18:06:00,17.34,Taxi service,Local Transit,Transportation
+TX0826,6/25/2024,20:16:00,42.42,Taxi service,Local Transit,Transportation
+TX0827,11/27/2024,15:53:00,85.64,Movie tickets,Spotify,Entertainment
+TX0828,1/2/2025,18:25:00,57.83,Internet bill,Internet Provider,Bills
+TX0829,3/18/2025,18:38:00,38.08,Streaming subscription,AMC Theatres,Entertainment
+TX0830,7/7/2024,8:07:00,85.21,Monthly bill payment,Internet Provider,Bills
+TX0831,8/15/2024,12:54:00,10.06,Ride fare,Local Transit,Transportation
+TX0832,12/9/2024,12:56:00,49.62,Bus ticket,Lyft,Transportation
+TX0833,4/24/2024,20:00:00,18.71,Taxi service,Uber,Transportation
+TX0834,5/4/2024,20:56:00,42.78,Ride fare,Lyft,Transportation
+TX0835,10/28/2024,20:56:00,289.59,Health supplement,CVS Pharmacy,Healthcare
+TX0836,7/9/2024,12:19:00,12.94,Lunch meal,Subway,Food & Beverage
+TX0837,3/12/2025,12:50:00,23.02,Movie tickets,Netflix,Entertainment
+TX0838,3/24/2025,22:44:00,29.42,Dinner at restaurant,McDonalds,Food & Beverage
+TX0839,3/20/2025,20:08:00,38.49,Movie tickets,Netflix,Entertainment
+TX0840,6/24/2024,12:25:00,5.2,Coffee purchase,Starbucks,Food & Beverage
+TX0841,9/28/2024,22:14:00,308.2,Monthly bill payment,Local Utility,Bills
+TX0842,10/3/2024,12:47:00,28.42,Coffee purchase,Dunkin,Food & Beverage
+TX0843,11/25/2024,8:53:00,25,Concert tickets,Netflix,Entertainment
+TX0844,5/4/2024,18:25:00,16.41,Coffee purchase,McDonalds,Food & Beverage
+TX0845,10/23/2024,12:16:00,32.58,Streaming subscription,Netflix,Entertainment
+TX0846,2/24/2025,12:44:00,98.95,Movie tickets,Netflix,Entertainment
+TX0847,3/14/2025,15:35:00,317.16,Health supplement,CVS Pharmacy,Healthcare
+TX0848,3/10/2025,15:30:00,98.59,Internet bill,Mobile Carrier,Bills
+TX0849,4/24/2024,20:06:00,177.04,Internet bill,Internet Provider,Bills
+TX0850,3/25/2025,15:31:00,38.93,Ride fare,Uber,Transportation
+TX0851,1/29/2025,18:24:00,87.68,Electricity bill,Mobile Carrier,Bills
+TX0852,3/1/2025,8:00:00,10.92,Bus ticket,Uber,Transportation
+TX0853,12/8/2024,15:33:00,14.63,Coffee purchase,Dunkin,Food & Beverage
+TX0854,12/10/2024,20:24:00,279.07,Monthly bill payment,Internet Provider,Bills
+TX0855,11/4/2024,15:28:00,40.07,Bulk food items,Walmart,Groceries
+TX0856,4/30/2024,20:54:00,112.24,Doctor appointment fee,Walgreens,Healthcare
+TX0857,12/17/2024,12:56:00,69.3,Concert tickets,AMC Theatres,Entertainment
+TX0858,3/16/2025,15:38:00,384.8,Internet bill,Local Utility,Bills
+TX0859,11/13/2024,12:16:00,126.42,Health supplement,Local Clinic,Healthcare
+TX0860,9/22/2024,20:13:00,78.46,Grocery store purchase,Costco,Groceries
+TX0861,5/5/2024,15:36:00,8.78,Lunch meal,Subway,Food & Beverage
+TX0862,2/13/2025,20:14:00,87,Movie tickets,AMC Theatres,Entertainment
+TX0863,3/10/2025,22:43:00,154.87,Doctor appointment fee,Local Clinic,Healthcare
+TX0864,3/12/2025,20:30:00,67.38,Concert tickets,Spotify,Entertainment
+TX0865,8/11/2024,15:00:00,43.71,Ride fare,Lyft,Transportation
+TX0866,12/3/2024,20:20:00,20.81,Coffee purchase,Subway,Food & Beverage
+TX0867,9/29/2024,8:35:00,78.49,Monthly bill payment,Local Utility,Bills
+TX0868,4/26/2024,22:41:00,36.71,Taxi service,Lyft,Transportation
+TX0869,12/26/2024,12:28:00,131.45,Grocery store purchase,Costco,Groceries
+TX0870,5/20/2024,18:21:00,84.6,Monthly bill payment,Mobile Carrier,Bills
+TX0871,11/19/2024,20:15:00,20.57,Taxi service,Uber,Transportation
+TX0872,7/21/2024,18:15:00,57.61,Grocery store purchase,Costco,Groceries
+TX0873,11/25/2024,18:13:00,33.74,Taxi service,Uber,Transportation
+TX0874,3/8/2025,18:07:00,47.1,Ride fare,Local Transit,Transportation
+TX0875,3/12/2025,15:32:00,27.88,Taxi service,Lyft,Transportation
+TX0876,7/25/2024,15:12:00,14.41,Dinner at restaurant,Starbucks,Food & Beverage
+TX0877,7/2/2024,20:58:00,29,Lunch meal,McDonalds,Food & Beverage
+TX0878,2/22/2025,18:36:00,15.55,Bus ticket,Uber,Transportation
+TX0879,4/8/2024,20:01:00,79.17,Grocery store purchase,Walmart,Groceries
+TX0880,12/26/2024,22:18:00,89.67,Health supplement,CVS Pharmacy,Healthcare
+TX0881,3/25/2025,15:22:00,28.92,Lunch meal,McDonalds,Food & Beverage
+TX0882,7/28/2024,18:43:00,276.31,Internet bill,Mobile Carrier,Bills
+TX0883,7/20/2024,15:16:00,38.2,Ride fare,Local Transit,Transportation
+TX0884,10/16/2024,20:24:00,382.04,Pharmacy purchase,Local Clinic,Healthcare
+TX0885,1/18/2025,18:05:00,269.89,Doctor appointment fee,Walgreens,Healthcare
+TX0886,6/4/2024,18:09:00,83.51,Bulk food items,Walmart,Groceries
+TX0887,9/23/2024,18:02:00,166.94,Monthly bill payment,Internet Provider,Bills
+TX0888,8/21/2024,20:42:00,211.98,Health supplement,Walgreens,Healthcare
+TX0889,4/12/2024,12:57:00,240.83,Electricity bill,Mobile Carrier,Bills
+TX0890,10/24/2024,22:50:00,10.85,Coffee purchase,Subway,Food & Beverage
+TX0891,12/6/2024,15:10:00,50.38,Health supplement,Walgreens,Healthcare
+TX0892,4/6/2024,18:51:00,78.93,Taxi service,Local Transit,Transportation
+TX0893,8/11/2024,12:16:00,129.26,Concert tickets,AMC Theatres,Entertainment
+TX0894,8/20/2024,18:08:00,12.14,Lunch meal,Subway,Food & Beverage
+TX0895,9/26/2024,15:46:00,360.47,Doctor appointment fee,CVS Pharmacy,Healthcare
+TX0896,5/9/2024,22:07:00,35.23,Concert tickets,AMC Theatres,Entertainment
+TX0897,4/22/2024,20:17:00,98.42,Electricity bill,Mobile Carrier,Bills
+TX0898,8/1/2024,8:18:00,145.89,Grocery store purchase,Target,Groceries
+TX0899,2/8/2025,20:04:00,16.73,Dinner at restaurant,Starbucks,Food & Beverage
+TX0900,12/29/2024,20:15:00,6.22,Lunch meal,Subway,Food & Beverage
+TX0901,1/4/2025,18:07:00,52.66,Concert tickets,Spotify,Entertainment
+TX0902,12/13/2024,15:40:00,34.08,Movie tickets,AMC Theatres,Entertainment
+TX0903,9/28/2024,20:43:00,230.22,Electricity bill,Mobile Carrier,Bills
+TX0904,11/8/2024,12:53:00,28.36,Taxi service,Local Transit,Transportation
+TX0905,10/31/2024,20:13:00,27.98,Concert tickets,AMC Theatres,Entertainment
+TX0906,4/18/2024,18:30:00,24.43,Coffee purchase,McDonalds,Food & Beverage
+TX0907,7/10/2024,15:54:00,62.09,Streaming subscription,AMC Theatres,Entertainment
+TX0908,3/14/2025,18:14:00,190.65,Grocery store purchase,Target,Groceries
+TX0909,8/29/2024,18:21:00,171.27,Grocery store purchase,Walmart,Groceries
+TX0910,4/7/2024,8:25:00,335.87,Doctor appointment fee,CVS Pharmacy,Healthcare
+TX0911,8/6/2024,18:01:00,73.6,Grocery store purchase,Target,Groceries
+TX0912,2/21/2025,20:08:00,182.81,Electricity bill,Mobile Carrier,Bills
+TX0913,12/7/2024,8:35:00,240.29,Concert tickets,AMC Theatres,Entertainment
+TX0914,4/16/2024,18:19:00,112.37,Electricity bill,Mobile Carrier,Bills
+TX0915,11/28/2024,22:58:00,5.94,Lunch meal,Dunkin,Food & Beverage
+TX0916,10/18/2024,22:59:00,164.18,Monthly bill payment,Mobile Carrier,Bills
+TX0917,1/7/2025,20:47:00,33.38,Bus ticket,Local Transit,Transportation
+TX0918,3/8/2025,15:20:00,73.73,Movie tickets,Netflix,Entertainment
+TX0919,10/6/2024,12:58:00,246.55,Monthly bill payment,Mobile Carrier,Bills
+TX0920,12/14/2024,18:22:00,27.59,Supermarket shopping,Costco,Groceries
+TX0921,9/1/2024,20:22:00,46.73,Bus ticket,Uber,Transportation
+TX0922,12/15/2024,20:36:00,12.64,Coffee purchase,McDonalds,Food & Beverage
+TX0923,2/12/2025,20:31:00,18.88,Coffee purchase,Starbucks,Food & Beverage
+TX0924,1/1/2025,22:02:00,156.23,Internet bill,Local Utility,Bills
+TX0925,11/15/2024,20:01:00,233.74,Pharmacy purchase,Local Clinic,Healthcare
+TX0926,3/20/2025,18:12:00,179.14,Supermarket shopping,Walmart,Groceries
+TX0927,12/11/2024,22:49:00,37.07,Grocery store purchase,Target,Groceries
+TX0928,3/25/2025,12:24:00,194.49,Supermarket shopping,Target,Groceries
+TX0929,1/24/2025,15:54:00,10.42,Lunch meal,Dunkin,Food & Beverage
+TX0930,6/13/2024,8:16:00,74.3,Streaming subscription,Netflix,Entertainment
+TX0931,5/22/2024,18:35:00,13.93,Bus ticket,Local Transit,Transportation
+TX0932,9/2/2024,12:22:00,70.68,Movie tickets,Spotify,Entertainment
+TX0933,2/5/2025,18:07:00,32.58,Grocery store purchase,Walmart,Groceries
+TX0934,5/17/2024,12:19:00,61.2,Electricity bill,Mobile Carrier,Bills
+TX0935,5/3/2024,20:50:00,25.45,Coffee purchase,McDonalds,Food & Beverage
+TX0936,10/5/2024,8:03:00,178.61,Pharmacy purchase,Walgreens,Healthcare
+TX0937,8/31/2024,20:29:00,396.55,Health supplement,Local Clinic,Healthcare
+TX0938,11/12/2024,20:49:00,94.35,Movie tickets,AMC Theatres,Entertainment
+TX0939,11/30/2024,20:44:00,18.58,Ride fare,Lyft,Transportation
+TX0940,1/2/2025,20:40:00,77.8,Concert tickets,Netflix,Entertainment
+TX0941,11/26/2024,12:46:00,10.74,Ride fare,Uber,Transportation
+TX0942,11/30/2024,8:33:00,22.54,Taxi service,Lyft,Transportation
+TX0943,2/13/2025,18:29:00,163.39,Electricity bill,Local Utility,Bills
+TX0944,12/16/2024,8:10:00,17.02,Lunch meal,McDonalds,Food & Beverage
+TX0945,4/22/2024,22:57:00,161.81,Electricity bill,Mobile Carrier,Bills
+TX0946,3/13/2025,20:08:00,56.54,Pharmacy purchase,CVS Pharmacy,Healthcare
+TX0947,2/8/2025,15:33:00,213.34,Pharmacy purchase,CVS Pharmacy,Healthcare
+TX0948,6/23/2024,20:12:00,410.71,Electricity bill,Internet Provider,Bills
+TX0949,1/10/2025,20:31:00,22.76,Ride fare,Lyft,Transportation
+TX0950,8/7/2024,8:49:00,47.85,Ride fare,Lyft,Transportation
+TX0951,4/4/2024,15:07:00,129.64,Pharmacy purchase,Local Clinic,Healthcare
+TX0952,11/19/2024,18:26:00,75.64,Streaming subscription,Netflix,Entertainment
+TX0953,9/4/2024,20:51:00,22.22,Coffee purchase,McDonalds,Food & Beverage
+TX0954,5/7/2024,8:56:00,7.53,Coffee purchase,McDonalds,Food & Beverage
+TX0955,11/2/2024,15:58:00,258.13,Bulk food items,Costco,Groceries
+TX0956,8/19/2024,20:02:00,40.01,Concert tickets,AMC Theatres,Entertainment
+TX0957,1/17/2025,20:47:00,28.94,Coffee purchase,Dunkin,Food & Beverage
+TX0958,12/5/2024,8:43:00,189.95,Grocery store purchase,Target,Groceries
+TX0959,3/28/2025,18:22:00,49.39,Supermarket shopping,Costco,Groceries
+TX0960,3/29/2024,8:48:00,59.28,Concert tickets,AMC Theatres,Entertainment
+TX0961,11/7/2024,22:48:00,9.51,Coffee purchase,Subway,Food & Beverage
+TX0962,8/10/2024,8:44:00,22.34,Lunch meal,Starbucks,Food & Beverage
+TX0963,3/9/2025,20:26:00,462.97,Pharmacy purchase,CVS Pharmacy,Healthcare
+TX0964,2/2/2025,12:32:00,257.34,Supermarket shopping,Walmart,Groceries
+TX0965,8/20/2024,8:38:00,416.41,Health supplement,CVS Pharmacy,Healthcare
+TX0966,9/14/2024,8:40:00,18.18,Dinner at restaurant,Dunkin,Food & Beverage
+TX0967,6/5/2024,20:45:00,13.34,Taxi service,Uber,Transportation
+TX0968,11/20/2024,12:10:00,47.02,Bus ticket,Local Transit,Transportation
+TX0969,12/13/2024,22:55:00,78.85,Streaming subscription,AMC Theatres,Entertainment
+TX0970,10/27/2024,18:35:00,20.2,Dinner at restaurant,Subway,Food & Beverage
+TX0971,12/28/2024,22:48:00,522.85,Health supplement,Local Clinic,Healthcare
+TX0972,2/15/2025,22:13:00,194.54,Health supplement,Local Clinic,Healthcare
+TX0973,10/29/2024,20:35:00,64.27,Streaming subscription,AMC Theatres,Entertainment
+TX0974,1/6/2025,20:36:00,21.09,Taxi service,Lyft,Transportation
+TX0975,3/22/2025,15:29:00,713.56,Doctor appointment fee,CVS Pharmacy,Healthcare
+TX0976,2/28/2025,12:32:00,62.68,Doctor appointment fee,CVS Pharmacy,Healthcare
+TX0977,6/25/2024,12:14:00,7.39,Ride fare,Uber,Transportation
+TX0978,3/5/2025,18:35:00,225.86,Monthly bill payment,Internet Provider,Bills
+TX0979,12/16/2024,12:52:00,8.37,Taxi service,Uber,Transportation
+TX0980,2/15/2025,8:00:00,283.55,Electricity bill,Local Utility,Bills
+TX0981,9/20/2024,18:30:00,198.29,Supermarket shopping,Costco,Groceries
+TX0982,6/1/2024,8:36:00,26.9,Dinner at restaurant,Subway,Food & Beverage
+TX0983,2/22/2025,20:36:00,7.7,Lunch meal,Dunkin,Food & Beverage
+TX0984,6/18/2024,18:27:00,27.72,Lunch meal,McDonalds,Food & Beverage
+TX0985,7/28/2024,18:52:00,580.18,Health supplement,Walgreens,Healthcare
+TX0986,6/22/2024,18:41:00,10.78,Lunch meal,Dunkin,Food & Beverage
+TX0987,2/21/2025,15:21:00,46.96,Movie tickets,Spotify,Entertainment
+TX0988,5/3/2024,15:16:00,80.59,Concert tickets,Netflix,Entertainment
+TX0989,11/8/2024,20:53:00,65.41,Concert tickets,Netflix,Entertainment
+TX0990,7/29/2024,20:52:00,40.17,Bulk food items,Walmart,Groceries
+TX0991,7/24/2024,15:13:00,56.5,Electricity bill,Local Utility,Bills
+TX0992,8/25/2024,18:18:00,279.58,Pharmacy purchase,Local Clinic,Healthcare
+TX0993,6/19/2024,18:31:00,38.25,Bus ticket,Local Transit,Transportation
+TX0994,11/2/2024,12:45:00,97.42,Supermarket shopping,Target,Groceries
+TX0995,3/25/2025,12:45:00,52.55,Bulk food items,Walmart,Groceries
+TX0996,9/13/2024,18:18:00,30.55,Bus ticket,Lyft,Transportation
+TX0997,8/18/2024,8:16:00,96.67,Concert tickets,Spotify,Entertainment
+TX0998,4/26/2024,22:42:00,54.7,Supermarket shopping,Walmart,Groceries
+TX0999,10/3/2024,18:12:00,102.38,Monthly bill payment,Mobile Carrier,Bills
+TX1000,2/24/2025,20:15:00,28.52,Ride fare,Local Transit,Transportation
